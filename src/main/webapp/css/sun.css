@@ -1,0 +1,37 @@
+.headText{
+    display: block;
+    font-size: 13px;
+    line-height: 20px;
+    margin: 0;
+    padding: 5.5px;
+}
+.navbar {
+	margin-bottom: 0px;
+}
+.navbar .nav {
+    display: table;
+    margin: 0;
+    width: 100%;
+}
+
+.navbar .nav li {
+    display: table-cell;
+    float: none;
+    width: 1%;
+}
+li {
+    line-height: 20px;
+}
+
+.navbar .nav li:first-child a {
+    border-left: 0 none;
+    border-radius: 3px 0 0 3px;
+}
+.navbar .nav li a {
+    border-right: 1px solid rgba(0, 0, 0, 0.1);
+    font-weight: bold;
+    text-align: center;
+}
+.navbar-inner {
+	min-height: 32px;
+}
