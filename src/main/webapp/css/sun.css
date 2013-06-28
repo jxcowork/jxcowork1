@@ -17,10 +17,6 @@
 .navbar .nav li {
     display: table-cell;
     float: none;
-    width: 1%;
-}
-li {
-    line-height: 20px;
 }
 
 .navbar .nav li:first-child a {
