@@ -17,19 +17,19 @@
 <meta name="google-site-verification" content="DLmI_0dEUp1qHCiGdzyusTqvMGmF4LFBPulEbbDKDRw" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <!-- Le styles -->
-<link href="/bootstrap-2.3.2/css/bootstrap.css" rel="stylesheet">
+<link href="/assets/bootstrap-2.3.2/css/bootstrap.css" rel="stylesheet">
 <style>
 body {
 	padding-top: 33px;
 	/* 60px to make the container go all the way to the bottom of the topbar */
 }
 </style>
-<link href="/bootstrap-2.3.2/css/bootstrap-responsive.css" rel="stylesheet">
-<link href="/css/sun.css" rel="stylesheet">
-<link rel="stylesheet" type="text/css" href="/flowplayer-5.4.3/skin/minimalist.css">
+<link href="/assets/bootstrap-2.3.2/css/bootstrap-responsive.css" rel="stylesheet">
+<link href="/assets/css/sun.css" rel="stylesheet">
+<link rel="stylesheet" type="text/css" href="/assets/flowplayer-5.4.3/skin/minimalist.css">
 <!-- HTML5 shim, for IE6-8 support of HTML5 elements -->
 <!--[if lt IE 9]>
-      <script src="/js/html5shiv/html5shiv3.6.2.js"></script>
+      <script src="/assets/js/html5shiv/html5shiv3.6.2.js"></script>
     <![endif]-->
 </head>
 
@@ -44,19 +44,19 @@ body {
 					<div class="span6">
 						<div class="headText" style="float: right">
 							<a href="#">[会员登录]</a>
-							<a href="#">[注册]</a>
+							<a href="/Charge/Reg.asp">[注册]</a>
 							<a href="#">设为首页</a>|
 							<a href="#">加入收藏</a>|
 							<a href="#">在线中心</a>|
-							<a href="#">在帮助中心</a>|
-							<a href="#">联系我们</a>
+							<a href="#">帮助中心</a>|
+							<a href="/About/">联系我们</a>
 						</div>
 					</div>
 				</div>
 			</div>
 		</div>
 	</div>
-	<div class="container" style="height: 100px; background-color: grey;">
+	<div class="container" style="height: 85px; background-image: url(/assets/images/header.png);">
 	</div>
 	<div class="container">
 		<div class="navbar">
@@ -67,9 +67,9 @@ body {
 						<li><a href="#">综合职称英语考试</a></li>
 						<li><a href="#">理工类英语职称考试</a></li>
 						<li><a href="#">卫生类英语职称考试</a></li>
-						<li><a href="#">孙老师介绍</a></li>
-						<li><a href="#">免费试听课堂</a></li>
-						<li><a href="#">英语贴吧</a></li>
+						<li><a href="/sunlaoshi/">孙老师介绍</a></li>
+						<li><a href="/free/">免费试听课堂</a></li>
+						<li><a href="http://bbs.teachersun.com/">英语贴吧</a></li>
 						<li><a href="#">考试介绍相关</a></li>
 						<li><a href="#">历年考题汇总</a></li>
 					</ul>
@@ -77,29 +77,61 @@ body {
 			</div>
 		</div>
 	</div>
-	<div class="container"
-		style="width: 100%; background-color: grey; height: 150px;">
-		<h1>Bootstrap starter template</h1>
-		<p>
-			Use this document as a way to quick start any new project.<br>
-			All you get is this message and a barebones HTML document.
-		</p>
-	</div>
 	<div class="container">
+		<div id="container">
+		</div>
+	</div>
+	<div class="container" style="padding-top:4px;padding-bottom:2px;">
 		<div class="row-fluid">
 			<div class="span6">
-				<div class="flowplayer" data-swf="/flowplayer-5.4.3/flowplayer.swf" data-ratio="0.4167">
+				<div class="flowplayer is-splash" data-swf="/assets/flowplayer-5.4.3/flowplayer.swf" style="width:480px;height:290px;background-color:#000000;">
 			      <video>
-			         <source type="video/mp4" src="http://stream.flowplayer.org/bauhaus/624x260.mp4">
+			         <source type="video/mp4" src="/assets/video/624x260.mp4"></source>
 			      </video>
 			   </div>
 		   </div>
 			<div class="span6">
+				<img src="/assets/images/baoguo.png" />
 		   </div>
 	   </div>
 	</div>
 	<!-- /container -->
-	<div class="container" style="height: 100px; background-color: grey;">
+	<div class="container" style="height: 100px;">
+		<div class="row-fluid">
+			<div class="span2_4">
+				<a>
+				<img src="/assets/images/1.png">
+				</a>
+				<a href="#">xxxxxxxxxxxx</a>
+			</div>
+			<div class="span2_4">
+				<a>
+				<img src="/assets/images/2.png">
+				</a>
+				<a href="#">xxxxxxxxxxxx</a>
+			</div>
+			<div class="span2_4">
+				<a>
+				<img src="/assets/images/3.png">
+				</a>
+				<a href="#">xxxxxxxxxxxx</a>
+			</div>
+			<div class="span2_4">
+				<a>
+				<img src="/assets/images/4.png">
+				</a>
+				<a href="#">xxxxxxxxxxxx</a>
+			</div>
+			<div class="span2_4">
+				<a>
+				<img src="/assets/images/5.png">
+				</a>
+				<a href="#">xxxxxxxxxxxx</a>
+			</div>
+		</div>
+	</div>
+	<div class="container">
+		<a href="/Charge/Reg.asp"><img src="/assets/images/lijibaoming.png" /></a>
 	</div>
 	<div class="container">
 		<div class="row-fluid">
@@ -108,13 +140,59 @@ body {
 			<div class="span4" style="height: 100px; background-color: blue;">...</div>
 		</div>
 	</div>
+	<div class="container">
+		<a href="http://bbs.teachersun.com/"><img src="/assets/images/liuxiazixin.png" /></a>
+	</div>
+	<div id="footer">
+      <div class="container" style="text-align:center">
+		<a href="#">孙老师首页</a>|
+		<a href="#">职称英语考试</a>|
+		<a href="#">综合英语考试</a>|
+		<a href="#">理工英语考试</a>|
+		<a href="#">卫生英语考试</a>|
+		<a href="#">免费试听课</a>|
+		<a href="#">关于孙老师</a>|
+		<a href="#">学员分享论坛</a>|
+		<a href="#">常见问题</a>|
+		<a href="/About/">联系我们</a>
+      </div>
+    </div>
+	<div class="container">
+		<div class="row-fluid">
+			<div class="span3">
+				<img src="/assets/images/bottomlogo.png">
+			</div>
+			<div class="span9" style="height: 100px; background-color: white;">
+			儒特(北京)信息咨询有限公司<br/>
+			</div>
+		</div>
+	</div>
 	<!-- Le javascript
     ================================================== -->
 	<!-- Placed at the end of the document so the pages load faster -->
-	<script src="/js/jquery-1.9.1.min.js"></script>
-	<script src="/bootstrap-2.3.2/js/bootstrap.min.js"></script>
-	<script type="text/javascript" src="/flowplayer-5.4.3/flowplayer.min.js"></script>
-	
+	<script src="/assets/js/jquery-1.9.1.min.js"></script>
+	<script src="/assets/bootstrap-2.3.2/js/bootstrap.min.js"></script>
+	<script type="text/javascript" src="/assets/flowplayer-5.4.3/flowplayer.min.js"></script>
+	<script type="text/javascript" src="/assets/js/swfobject.js"></script>
+	<script type="text/javascript">
+		var s1 = new SWFObject("/assets/flash/imagerotator.swf","rotator","1000","326","7","#000000");
+		s1.addParam("allowfullscreen","false");
+		s1.addParam("allowscriptaccess","always");
+		s1.addParam("wmode","opaque");
+		s1.addVariable("file","/assets/flash/imagerotator.xml");
+		//s1.addVariable("searchbar","false");
+		//s1.addVariable("autoscroll","true");
+		s1.addVariable("width","1000");
+		s1.addVariable("height","326");
+		//s1.addVariable("backcolor","0xFFFFFF");
+		//s1.addVariable("screencolor","0xFFFFFF");
+		s1.addVariable("autostart","true");
+		s1.addVariable("rotatetime","5"); 
+		s1.addVariable("repeat","true"); 
+		s1.addVariable("linkfromdisplay","true");
+		s1.addVariable("linktarget","_blank");
+		s1.write("container");
+	</script>
 	<script type="text/javascript">
 	//var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
 	//document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F8e1ebf318d56927010e89c9d0f4b269d' type='text/javascript'%3E%3C/script%3E"));
