@@ -4,6 +4,7 @@
 	-moz-box-shadow:2px 2px 5px #969696;/*firefox*/
 	-webkit-box-shadow:2px 2px 5px #969696;/*webkit*/
 	box-shadow:2px 2px 5px #969696;/*opera»òie9*/
+	border: 1px solid #888888;
 }
 
 .container {
@@ -14,6 +15,9 @@
 }
 .row-fluid .span6 {
     width: 47.7179%;
+}
+.row-fluid .span3 {
+    width: 23.0769%;
 }
 .row-fluid .iespan3 {
     width: 23.0769%;
