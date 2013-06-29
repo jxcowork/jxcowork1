@@ -83,3 +83,16 @@
     right: 20px;
     width: 38px;
 }
+
+.speechLink {
+	list-style-type:none;
+	line-height: 25px;
+	font-size: 14px;	
+}
+
+.sourceTitle {
+	list-style-type:square;
+	font-size:14px;
+	font-weight:bold;
+	line-height: 25px;
+}
