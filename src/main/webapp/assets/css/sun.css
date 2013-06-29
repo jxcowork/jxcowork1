@@ -46,3 +46,35 @@
 .container {
 	min-width:1000px;
 }
+
+.baomingTitle {
+	text-align:center;
+	line-height: 60px;
+	color:#FFFFFF;
+	margin:1px;
+}
+.baomingContent {
+	margin-left:25px;
+}
+
+.redAndbold {
+	color:#FF0000;
+	font-weight:bold;
+}
+.yellowAndbold {
+	color:#F66900;
+	font-weight:bold;
+}
+.blueLink {
+	color:#0088CC;
+}
+.shadow {
+	 box-shadow: 0 1px 4px #000000;
+}
+#scrollUp {
+    background: url("/assets/images/top.png") no-repeat scroll 0 0 transparent;
+    bottom: 20px;
+    height: 38px;
+    right: 20px;
+    width: 38px;
+}
