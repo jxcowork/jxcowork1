@@ -1,0 +1,30 @@
+.shadow{
+	filter: progid:DXImageTransform.Microsoft.Shadow(color='#666666', Direction=135, Strength=5);/*for ie6,7,8*/
+	background-color: #FEFEFE;
+	-moz-box-shadow:2px 2px 5px #969696;/*firefox*/
+	-webkit-box-shadow:2px 2px 5px #969696;/*webkit*/
+	box-shadow:2px 2px 5px #969696;/*opera»òie9*/
+}
+
+.container {
+	width:1000px;
+}
+.row-fluid .span4 {
+    width: 30.6239%;
+}
+.row-fluid .span6 {
+    width: 47.7179%;
+}
+.row-fluid .iespan3 {
+    width: 23.0769%;
+}
+.row-fluid .iespan9 {
+    width: 74.359%;
+}
+table {
+	width:100%;
+}
+.navbar .nav li {
+    float: left;
+    margin:0px 8px;
+}
