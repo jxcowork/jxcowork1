@@ -85,6 +85,12 @@
     width: 38px;
 }
 
+.charactorIntro {
+	text-align: center;
+	font-size: 12px;
+	font-weight: bold;	
+}
+
 .speechLink {
 	list-style-type:none;
 	line-height: 25px;
