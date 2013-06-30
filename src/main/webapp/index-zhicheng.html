@@ -86,7 +86,7 @@ body {
 		</div>
 	</div>
 	<div class="container" style="padding-top:4px;padding-bottom:2px;">
-		<div class="row-fluid">
+		<div class="row-fluid" style="background-color: #FFFFFF;">
 			<div class="span6">
 				<div class="flowplayer is-splash" data-swf="/assets/flowplayer-5.4.3/flowplayer.swf" style="width:480px;height:290px;background-color:#000000;">
 			      <video>
@@ -100,7 +100,7 @@ body {
 	   </div>
 	</div>
 	<!-- /container -->
-	<div class="container">
+	<div class="container" style="background-color: #FFFFFF;">
 		<div class="row-fluid">
 			<div class="span2_4">
 				<div>
@@ -154,20 +154,22 @@ body {
 				<div class="row-fluid">
 						<div class="span12"><img src="/assets/images/shoufeiketang.png"></div>
 						<div class="span12">
+							<form id="loginForm" onSubmit="return(VerifyInput(this));" name="loginForm" action="/Charge/Login.asp" method="POST">
 							<table>
 							<tr>
 							<td>Email:</td>
-							<td><input type="text" value="" style="width:150px;"/></td>
+							<td><input type="text" value="" name="Email" style="width:150px;"/></td>
 							</tr>
 							<tr>
 							<td>密码:</td>
-							<td><input type="text" value="" style="width:150px;"/></td>
+							<td><input type="text" value="" name="PWD" style="width:150px;"/></td>
 							</tr>
 							<tr>
 							<td></td>
-							<td><a class="btn btn-warning">登录</a></td>
+							<td><input class="btn btn-warning" type="submit" value="登录"/></td>
 							</tr>
 							</table>
+							</form>
 						</div>
 						<div class="span12" style="height:2px;border:1px solid #BBBBBB;min-height:2px;margin:10px 0px;"></div>
 						<div class="span12">

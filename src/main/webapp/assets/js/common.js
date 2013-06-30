@@ -25,3 +25,35 @@ function addFavorite(url, name) {
 		}
 	}
 }
+
+function VerifyInput(form1)
+{
+	if(form1.PWD.value == "")
+		{
+		alert("您的密码是不是忘填了!!");
+		form1.PWD.focus();
+		return false;
+		} 
+	//E-MAIL邮件地址检测
+	if (form1.Email){
+		if (form1.Email.value == "info@teachersun.com" || form1.Email.value == "slskt@263.net" ){
+			alert("请填写您报名注册时填写的的Email地址!!");
+			form1.Email.focus();
+			return (false);
+		}
+		if (form1.Email.value == ""){
+			alert("您的Email地址是不是忘填了!!");
+			form1.Email.focus();
+			return (false);
+		}
+		var re = new RegExp("^([A-Za-z0-9_|-]+[.]*[A-Za-z0-9_|-]+)+@[A-Za-z0-9|-]+([.][A-Za-z0-9|-]+)*[.][A-Za-z0-9]+$","ig");
+		{if (!re.test(form1.Email.value))
+			{alert("您的电子邮件格式有问题喔!!");
+			form1.Email.focus();
+			return false;
+			}
+		}
+	}
+
+	return true;
+}
