@@ -75,6 +75,7 @@
   -webkit-box-shadow: 0 1px 4px #000000;
      -moz-box-shadow: 0 1px 4px #000000;
           box-shadow: 0 1px 4px #000000;
+          border: 1px solid #888888;
 }
 #scrollUp {
     background: url("/assets/images/top.png") no-repeat scroll 0 0 transparent;
@@ -94,5 +95,13 @@
 	list-style-type:square;
 	font-size:14px;
 	font-weight:bold;
-	line-height: 25px;
+	line-height: 20px;
+}
+.sourceTitle li {
+	font-family:"\5FAE\8F6F\96C5\9ED1","\9ED1\4f53","\5b8b\4f53",sans-serif;
+	line-height: 20px;
+}
+.speechLink li {
+	line-height: 20px;
+	font-family:"\5FAE\8F6F\96C5\9ED1","\9ED1\4f53","\5b8b\4f53",sans-serif;
 }
