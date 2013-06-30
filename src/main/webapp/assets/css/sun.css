@@ -36,7 +36,7 @@
 	min-height: 24px;
 }
 #footer {
-	background-color: #D00000;
+	background-image: linear-gradient(to bottom, #D00000, #D03030);
 	line-height: 30px;
 }
 .row-fluid .span2_4 {
