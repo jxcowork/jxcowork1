@@ -16,18 +16,18 @@
 <META NAME="Robots" CONTENT="All">
 <meta name="google-site-verification" content="DLmI_0dEUp1qHCiGdzyusTqvMGmF4LFBPulEbbDKDRw" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
 <!-- Le styles -->
 <link href="/assets/bootstrap-2.3.2/css/bootstrap.css" rel="stylesheet">
-<link href="/assets/css/sun.css" charset="utf-8" type="text/css" rel="stylesheet">
 <style>
 body {
 	padding-top: 33px;
 	/* 60px to make the container go all the way to the bottom of the topbar */
 }
 </style>
-<link href="/assets/bootstrap-2.3.2/css/bootstrap-responsive.css" rel="stylesheet">
-<link href="/assets/css/sun.css" rel="stylesheet">
-<link rel="stylesheet" type="text/css" href="/assets/flowplayer-5.4.3/skin/minimalist.css">
+<link href="/assets/bootstrap-2.3.2/css/bootstrap-responsive.css" charset="utf-8" type="text/css" rel="stylesheet">
+<link href="/assets/css/sun.css" charset="utf-8" type="text/css" rel="stylesheet">
+<link href="/assets/flowplayer-5.4.3/skin/minimalist.css" charset="utf-8" type="text/css" rel="stylesheet">
 <!-- HTML5 shim, for IE6-8 support of HTML5 elements -->
 <!--[if lt IE 9]>
       <script src="/assets/js/html5shiv/html5shiv3.6.2.js"></script>
@@ -47,10 +47,10 @@ body {
 					</div>
 					<div class="span6">
 						<div class="headText" style="float: right">
-							<a href="#Login">会员登录</a>|
-							<a target="_blank" href="/Charge/Reg.asp">注册</a>|
-							<a onclick="setHomePage(this)" href="javascript:void(0)">设为首页</a>|
-							<a href="javascript:addFavorite()">加入收藏</a>|
+							<a href="#login">会员登录</a>|
+							<a href="/Charge/Reg.asp">注册</a>|
+							<a href="#" onclick="setHome(this, window.location)">设为首页</a>|
+							<a href="#" onclick="addFavorite(window.location,'孙老师课堂')">加入收藏</a>|
 							<a href="#">在线中心</a>|
 							<a href="#">帮助中心</a>|
 							<a href="/About/">联系我们</a>
@@ -78,7 +78,7 @@ body {
 			<div class="navbar-inner">
 				<div class="container">
 					<ul class="nav">
-						<li class="active"><a title="孙老师课堂" href="#">孙老师课堂首页</a></li>
+						<li class="active"><a title="孙老师课堂首页" href="/">首页</a></li>
 						<li><a title="孙老师课堂--小升初英语" href="/xxyy/">小升初英语</a></li>
 						<li><a title="孙老师课堂--初中英语" href="/czyy/">初中英语</a></li>
 						<li><a title="孙老师课堂--中考英语" href="/zkyy/">中考英语</a></li>
@@ -100,7 +100,7 @@ body {
 		</div>
 	</div>
 	<div class="container" style="padding-top:4px;padding-bottom:2px;">
-		<div class="row-fluid">
+		<div class="row-fluid" style="background-color: #FFFFFF;">
 			<div class="span6">
 				<div class="flowplayer is-splash" data-swf="/assets/flowplayer-5.4.3/flowplayer.swf" style="width:480px;height:290px;background-color:#000000;">
 			      <video>
@@ -118,46 +118,46 @@ body {
 	   </div>
 	</div>
 	<!-- /container -->
-	<div class="container" style="height: 100px;">
+	<div class="container" style="background-color: #FFFFFF;">
 		<div class="row-fluid">
 			<div class="span2_4">
 				<div>
-					<a> <img src="/assets/images/1.png"></a>
+					<a href="/News/NewsSohu.asp"> <img src="/assets/images/1.png"></a>
 				</div>
 				<div class="charactorIntro">
-					<a href="#">网校名师搜狐专访谈09职称英语备考</a>
+					<a href="/News/NewsSohu.asp">网校名师搜狐专访谈09职称英语备考</a>
 				</div>
 			</div>
 			<div class="span2_4">
 				<div>
-					<a> <img src="/assets/images/2.png"> </a>
+					<a href="/sunlaoshi/"> <img src="/assets/images/2.png"> </a>
 				</div>
 				<div class="charactorIntro">
-					<a href="#">孙老师在"北京市民讲外语"讲课</a>
+					<a href="/sunlaoshi/">孙老师在"北京市民讲外语"讲课</a>
 				</div>
 			</div>
 			<div class="span2_4">
 				<div>
-					<a><img src="/assets/images/3.png"></a>
+					<a href="/sunlaoshi/"><img src="/assets/images/3.png"></a>
 				</div>
 				<div class="charactorIntro">
-					<a href="#">孙老师在"中央电视台文艺中心国际部"讲课</a>
+					<a href="/sunlaoshi/">孙老师在"中央电视台文艺中心国际部"讲课</a>
 				</div>
 			</div>
 			<div class="span2_4">
 				<div>
-					<a><img src="/assets/images/4.png"></a>
+					<a href="/sunlaoshi/"><img src="/assets/images/4.png"></a>
 				</div>
 				<div class="charactorIntro">
-					<a href="#">与参会专家合影</a>
+					<a href="/sunlaoshi/">与参会专家合影</a>
 				</div>
 			</div>
 			<div class="span2_4">
 				<div>
-					<a><img src="/assets/images/5.png"></a>
+					<a href="/sunlaoshi/"><img src="/assets/images/5.png"></a>
 				</div>
 				<div class="charactorIntro">
-					<a href="#">孙老师与2010中国青少年英语能力大赛参赛选手合影</a>
+					<a href="/sunlaoshi/">孙老师与2010中国青少年英语能力大赛参赛选手合影</a>
 				</div>
 			</div>
 		</div>
@@ -165,26 +165,29 @@ body {
 	<div class="container shadow">
 		<a href="/Charge/Reg.asp"><img src="/assets/images/mainad3.png" /></a>
 	</div>
-	<div class="container shadow" style="margin-top:10px;">
+	<div class="container" style="height:1px;margin-bottom:10px;"><a id="login"></a></div>
+	<div class="container shadow">
 		<div class="row-fluid">
 			<div class="span3 iespan3">
 				<div class="row-fluid">
 						<div class="span12"><img src="/assets/images/shoufeiketang.png"></div>
 						<div class="span12">
+							<form id="loginForm" onSubmit="return(VerifyInput(this));" name="loginForm" action="/Charge/Login.asp" method="POST">
 							<table>
 							<tr>
-							<td><a name="Login" >Email:</a></td>
-							<td><input type="text" value="" style="width:150px;"/></td>
+							<td>Email:</td>
+							<td><input type="text" value="" name="Email" style="width:150px;"/></td>
 							</tr>
 							<tr>
 							<td>密码:</td>
-							<td><input type="text" value="" style="width:150px;"/></td>
+							<td><input type="text" value="" name="PWD" style="width:150px;"/></td>
 							</tr>
 							<tr>
 							<td></td>
-							<td><a><img src="/assets/images/login.png" /></a></td>
+							<td><input class="btn btn-warning" type="submit" value="登录"/></td>
 							</tr>
 							</table>
+							</form>
 						</div>
 						<div class="span12" style="height:2px;border:1px solid #BBBBBB;min-height:2px;margin:10px 0px;"></div>
 						<div class="span12" style="padding-left:5px">
@@ -194,8 +197,8 @@ body {
 			</div>
 			<div class="span9 iespan9" style="height:100%;border-left: medium dotted linen;">
 				<div class="row-fluid">
-					<div class="span6"><img src="/assets/images/shoufeiketang.png"></div>
-					<div class="span6"><img src="/assets/images/shoufeiketang.png"></div>
+					<div class="span6" style="padding-left:20px;"><img src="/assets/images/zhichengyingyupeixun.png"></div>
+					<div class="span6" style="text-align:right;padding-top: 10px;padding-right: 30px;"><a class="blueLink" href="">更多&gt;&gt;</a></div>
 					<div class="span12">
 						<table>
 							<tr>
@@ -525,13 +528,14 @@ body {
 			<a href="http://class.teachersun.com/lesson/wygls_bm.html" class="blueLink">物业管理师</a>|
 			<a href="http://class.teachersun.com/lesson/bgy_bm.html" class="blueLink">报关员</a>
 	    </div>
-	<div id="footer">
+	</div>
+	<div id="footer" style="margin-top:10px;">
       <div class="container" style="text-align:center">
-  		<a href="#">孙老师首页</a>|
-		<a href="/zcyy/">职称英语考试</a>|
-		<a href="/zcyy/">综合英语考试</a>|
-		<a href="/zcyy/">理工英语考试</a>|
-		<a href="/zcyy/">卫生英语考试</a>|
+		<a href="/">孙老师首页</a>|
+		<a href="http://www.teachersun.com/zcyy/">职称英语考试</a>|
+		<a href="#">综合英语考试</a>|
+		<a href="#">理工英语考试</a>|
+		<a href="#">卫生英语考试</a>|
 		<a href="/free/">免费试听课</a>|
 		<a href="/sunlaoshi/">关于孙老师</a>|
 		<a href="http://bbs.teachersun.com/">学员分享论坛</a>|
@@ -541,17 +545,12 @@ body {
     </div>
 	<div class="container">
 		<div class="row-fluid">
-			<div class="span3">
-				<a href="/">
-					<img src="/assets/images/001-logo.png">
-				</a>
-			</div> 
-			<div class="span9" style="height: 100px;text-align:center;">
+			<div class="span12" style="height: 100px;text-align:center;background-image:url('/assets/images/001-logo.png');background-repeat:no-repeat;">
 				<div>
 						版权所有（C） 儒特（北京）信息咨询有限公司    京ICP备05080287号    京公网安备11010502021023
 				</div>
 				<div>
-						《孙老师课堂》  Copyright2006  www.teachersun.com
+						《孙老师课堂》  Copyright 2013  www.teachersun.com
 				</div>
 				<div>
 						电话: 010-64775638  E-mail:slskt@263.com
@@ -559,6 +558,7 @@ body {
 			</div>
 		</div>
 	</div>
+	<a id="scrollUp" href="#top" title="" style="position: fixed; z-index: 2147483647; display: block;"></a>
 	<!-- Le javascript
     ================================================== -->
 	<!-- Placed at the end of the document so the pages load faster -->
@@ -566,6 +566,7 @@ body {
 	<script src="/assets/bootstrap-2.3.2/js/bootstrap.min.js"></script>
 	<script type="text/javascript" src="/assets/flowplayer-5.4.3/flowplayer.min.js"></script>
 	<script type="text/javascript" src="/assets/js/swfobject.js"></script>
+	<script type="text/javascript" src="/assets/js/common.js" charset="utf8"></script>
 	<script type="text/javascript">
 		var s1 = new SWFObject("/assets/flash/imagerotator.swf","rotator","1000","326","7","#000000");
 		s1.addParam("allowfullscreen","false");
@@ -585,9 +586,24 @@ body {
 		s1.addVariable("linktarget","_blank");
 		s1.write("container");
 	</script>
+	  <script src="assets/js/jquery.scrollUp.min.js"></script>
+    <script>
+      jQuery(document).ready(function(){
+    	  jQuery.scrollUp({
+               scrollName: 'scrollUp', // Element ID
+               topDistance: '300', // Distance from top before showing element (px)
+               topSpeed: 300, // Speed back to top (ms)
+               animation: 'fade', // Fade, slide, none
+               animationInSpeed: 200, // Animation in speed (ms)
+               animationOutSpeed: 200, // Animation out speed (ms)
+               scrollText: '', // Text for element
+               activeOverlay: false  // Set CSS color to display scrollUp active point, e.g '#00FFFF'
+          });
+      });
+    </script>
 	<script type="text/javascript">
-	//var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
-	//document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F8e1ebf318d56927010e89c9d0f4b269d' type='text/javascript'%3E%3C/script%3E"));
+	var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+	document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F8e1ebf318d56927010e89c9d0f4b269d' type='text/javascript'%3E%3C/script%3E"));
 	</script>
 </body>
 </html>
