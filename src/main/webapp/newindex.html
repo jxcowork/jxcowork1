@@ -88,8 +88,25 @@ body {
 		</div>
 	</div>
 	<div class="container">
-		<div id="container">
-		</div>
+<div id="banner"> 
+<div id="banner_bg"></div> 
+<!--标题背景--> 
+<div id="banner_info"></div> 
+<!--标题--> 
+
+<ul> 
+<li>1</li> 
+<li>2</li> 
+<li>3</li> 
+<li>4</li> 
+</ul> 
+<div id="banner_list"> 
+<a href="#" target="_blank"><img src="/assets/images/banner1.png" title="橡树小屋的blog" alt="橡树小屋的blog" /></a> 
+<a href="#" target="_blank"><img src="/assets/images/banner2.jpg" title="橡树小屋的blog" alt="橡树小屋的blog" /></a> 
+<a href="#" target="_blank"><img src="/assets/images/banner1.png" title="橡树小屋的blog" alt="橡树小屋的blog" /></a> 
+<a href="#" target="_blank"><img src="/assets/images/banner2.jpg" title="橡树小屋的blog" alt="橡树小屋的blog" /></a> 
+</div> 
+</div> 
 	</div>
 	<div class="container" style="padding-top:4px;padding-bottom:2px;">
 		<table>
@@ -622,26 +639,7 @@ body {
 	<script type="text/javascript" src="/assets/jwplayer/jwplayer.js"></script>
 	<script type="text/javascript" src="/assets/js/swfobject.js"></script>
 	<script type="text/javascript" src="/assets/js/common.js" charset="utf8"></script>
-	<script type="text/javascript">
-		var s1 = new SWFObject("/assets/flash/imagerotator.swf","rotator","1000","326","7","#000000");
-		s1.addParam("allowfullscreen","false");
-		s1.addParam("allowscriptaccess","always");
-		s1.addParam("wmode","opaque");
-		s1.addVariable("file","/assets/flash/indexrotator.xml");
-		//s1.addVariable("searchbar","false");
-		//s1.addVariable("autoscroll","true");
-		s1.addVariable("width","1000");
-		s1.addVariable("height","326");
-		//s1.addVariable("backcolor","0xFFFFFF");
-		//s1.addVariable("screencolor","0xFFFFFF");
-		s1.addVariable("autostart","true");
-		s1.addVariable("rotatetime","5"); 
-		s1.addVariable("repeat","true"); 
-		s1.addVariable("linkfromdisplay","true");
-		s1.addVariable("linktarget","_blank");
-		s1.write("container");
-	</script>
-	  <script src="assets/js/jquery.scrollUp.min.js"></script>
+    <script src="assets/js/jquery.scrollUp.min.js"></script>
     <script>
       jQuery(document).ready(function(){
     	  jQuery.scrollUp({
@@ -659,6 +657,7 @@ body {
     	      width:"480",
     	      height:"290"
     	  });
+    	  playImage();
       });
     </script>
 	<script type="text/javascript">
