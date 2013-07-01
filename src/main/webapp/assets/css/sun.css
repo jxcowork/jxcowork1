@@ -98,6 +98,10 @@
 	color:#0088CC;
 	font-weight:bold;
 }
+.blueLink-small {
+	color:#0088CC;
+	font-size:14px;
+}
 .shadow {
   -webkit-box-shadow: 0 1px 4px #000000;
      -moz-box-shadow: 0 1px 4px #000000;
