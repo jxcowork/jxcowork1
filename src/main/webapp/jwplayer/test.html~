@@ -1,0 +1,15 @@
+<html>
+<head>
+<script type="text/javascript" src="jwplayer.js"></script>
+<script type="text/javascript">jwplayer.key="ABCDEFGHIJKLMOPQ";</script>
+</head>
+<body>
+<div id="myElement">Loading the player...</div>
+
+<script type="text/javascript">
+    jwplayer("myElement").setup({
+        file: "http://stream.flowplayer.org/white/470x250.mp4"
+    });
+</script>
+</body>
+</html>
