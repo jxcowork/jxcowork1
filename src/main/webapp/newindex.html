@@ -127,7 +127,10 @@ body {
 
 	<!-- /container -->
 	<div class="container" style="background-color: #FFFFFF;">
-		<table class="row-fluid"  style="width:100%">
+		<div class="container" id="marqueueId" style="overflow: hidden;">
+		<table style="width:1000px">
+		<tr><td id="marqueueId1">
+		<table class="row-fluid"  style="width:1000px">
 			<tr><td valign="top" width="20%">
 			<div class="span2_4" style="width:100%">
 				<img width="196px" height="131px" style="width:195px;height:131px;" src="/assets/images/1.png">
@@ -169,6 +172,10 @@ body {
 				</div>
 			</div>
 			</td></tr>
+		</table>
+		</td>
+		<td id="marqueueId2"></td>
+		</tr>
 		</table>
 	</div>
 	<div class="container shadow">
@@ -661,6 +668,7 @@ body {
     	      height:"290"
     	  });
     	  playImage();
+    	  startMarquee();
       });
     </script>
 	<script type="text/javascript">

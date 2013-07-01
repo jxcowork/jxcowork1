@@ -84,3 +84,31 @@ function playImage(){
 		$("#banner li").eq(n).trigger('click'); 
 	} , 4000);}); 
 }
+
+function startMarquee(){
+	var speed=30;
+    var demo = $("#marqueueId");
+    var demo1 = $("#marqueueId1");
+    var demo2 = $("#marqueueId2");
+    demo2.html(demo1.html());
+    
+    var MyMar=setInterval(function (){
+        if(demo.scrollLeft()>=demo1.width())
+            demo.scrollLeft(0);
+        else{
+            demo.scrollLeft(demo.scrollLeft()+1);
+        }
+    },speed);
+    demo.mouseover(function() {
+        clearInterval(MyMar);
+    });
+    demo.mouseout(function() {
+        MyMar=setInterval(function(){
+            if(demo.scrollLeft()>=demo1.width())
+                demo.scrollLeft(0);
+            else{
+                demo.scrollLeft(demo.scrollLeft()+1);
+            }
+        },speed);
+    });
+}
