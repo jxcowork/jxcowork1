@@ -100,7 +100,8 @@
 }
 .blueLink-small {
 	color:#0088CC;
-	font-size:14px;
+	font-size: 12px;
+    font-weight: bold;
 }
 .shadow {
   -webkit-box-shadow: 0 1px 4px #000000;
@@ -173,7 +174,6 @@ p {
 	 margin-top:20px;
 	 margin-bottom:10px;"
 }
-
 #banner {position:relative; width:1000px; height:326px; border:1px solid #666; overflow:hidden; font-size:16px} 
 #banner_list img {border:0px;} 
 #banner_bg {position:absolute; bottom:0;background-color:#000;height:30px;filter: Alpha(Opacity=30);opacity:0.3;z-index:1000;cursor:pointer; width:1000px; } 
