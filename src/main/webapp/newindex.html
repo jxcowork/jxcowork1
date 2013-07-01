@@ -186,21 +186,24 @@ body {
 							<form id="loginForm" onSubmit="return(VerifyInput(this));" name="loginForm" action="/Charge/Login.asp" method="POST">
 							<table>
 							<tr>
-							<td><font style="font-weight:bold">Email:</font></td>
-							<td><input type="text" value="" name="Email" style="width:150px;"/></td>
+							<td align="right"><font class="sourceTitle">Email:</font></td>
+							<td><input type="text" value="" name="Email" style="width:140px;height:22px;margin-bottom:0px;margin-bottom:5px;" /></td>
 							</tr>
 							<tr>
-							<td><font style="font-weight:bold">密码:</font></td>
-							<td><input type="password" value="" name="PWD" style="width:150px;"/></td>
+							<td align="right"><font class="sourceTitle">密码:</font></td>
+							<td><input type="password" value="" name="PWD" style="width:140px;height:22px;margin-bottom:5px;" /></td>
 							</tr>
 							<tr>
 							<td></td>
-							<td><input class="btn btn-warning" type="submit" value="登录" style="width:120px;"/></td>
+							<td><input class="btn btn-warning" type="submit" value="登录" style="width:140px;"/></td>
 							</tr>
 							<tr>
 							<td colspan="2">
-							<img src="/assets/images/findpwd.png" /><a href="#" class="blueLink-small">找回密码</a>
-							<img src="/assets/images/baomingprocess.png" /><a href="#" class="blueLink-small">报名流程介绍</a></td>
+							<div style="wdith:100%;margin-top:10px;margin-left: 15px;">
+							<img src="/assets/images/findpwd.png" /><a href="/Charge/Forget.asp" class="blueLink-small">找回密码</a>
+							<img src="/assets/images/baomingprocess.png" /><a href="/Flack/Process.asp" class="blueLink-small">报名流程介绍</a>
+							</div>
+							</td>
 							</tr>
 							</table>
 							</form>
@@ -284,10 +287,10 @@ body {
 	<div class="container" style="margin-top:10px;">
 		<a href="http://bbs.teachersun.com/"><img src="/assets/images/mainad4.png" /></a>
 	</div>
-	<div class="container shadow" style="margin-top:10px;">
-		<table class="row-fluid" style="padding:10px;">
+	<div class="container shadow" style="background-color:#f2f4f3;margin-top:10px;">
+		<table class="row-fluid" style="padding:20px;">
 		<tr><td width="66%">
-			<table style="border:1px solid #7fb80e;width:100%;">
+			<table style="border:1px solid #7fb80e;width:100%;margin:10px;background-color:#FFFFFF">
 			<tr><td>
 				<div class="span6" style="padding-top:14px;width:100%;">
 					<ul style="list-style-type:none;margin-left:10px;">

@@ -57,12 +57,13 @@
 	font-weight:normal;
 }
 .baomingContent {
-	font-family:"\9ED1\4f53","\5b8b\4f53",sans-serif;
+	font-family:"\5b8b\4f53",sans-serif;
+	font-weight: bold;
 }
 
 .baomingContent_1 {
 	margin-top: 10px;
-	font-family:"\9ED1\4f53","\5b8b\4f53",sans-serif;
+	font-family:"\5b8b\4f53",sans-serif;
 	font-size: 20px;
 	color:#FF0000;
 	width:100%;
