@@ -61,6 +61,32 @@
 	font-family:"\9ED1\4f53","\5b8b\4f53",sans-serif;
 }
 
+.baomingContent_1 {
+	margin-top: 10px;
+	font-family:"\9ED1\4f53","\5b8b\4f53",sans-serif;
+	font-size: 20px;
+	color:#FF0000;
+	width:100%;
+}
+
+.baomingContent_2 {
+	font-family:"\9ED1\4f53","\5b8b\4f53",sans-serif;
+	font-weight: bold;
+}
+
+.baomingContent_3 {
+	font-family:"\9ED1\4f53","\5b8b\4f53",sans-serif;
+	font-weight: bold;
+	color:#E24445;
+	font-size:18px
+}
+
+.baomingContent_4 {
+	font-family:"\9ED1\4f53","\5b8b\4f53",sans-serif;
+	font-weight: bold;
+	color:#FF9233;
+}
+
 .redAndbold {
 	color:#FF0000;
 	font-weight:bold;
@@ -120,6 +146,8 @@ p {
 	font-size:14px;	
 }
 
-fenxiang_content p {
-	font-size: 12px;
+.adboard {
+	width:100%;
+	margin-left:6px;
+	margin-bottom:2px;
 }
