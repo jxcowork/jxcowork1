@@ -236,7 +236,7 @@ body {
 					<img width="196px" height="131px" style="width:195px;height:131px;" src="/assets/images/jiazhangqianming.jpg">
 				</div>
 				<div class="charactorIntro" style="width:100%">
-					学生家长争相签名
+					学生家长争相报名
 				</div>
 			</div>
 			</td>
