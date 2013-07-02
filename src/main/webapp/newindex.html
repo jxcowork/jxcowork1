@@ -265,7 +265,7 @@ body {
 					<img width="196px" height="131px" style="width:195px;height:131px;" src="/assets/images/yipiaonanqiu.jpg">
 				</div>
 				<div class="charactorIntro" style="width:100%">
-					孙老师课堂一票难求
+					孙老师课堂一座难求
 				</div>
 			</div>
 			</td>			
