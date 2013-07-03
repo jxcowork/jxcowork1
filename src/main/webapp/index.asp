@@ -50,7 +50,7 @@ body {
 						<td align="right"><div class="">
 							<div class="headText" style="float: right">
 								<a href="#login">会员登录</a>|
-								<a href="/Charge/Reg.asp">注册</a>|
+								<a target="_blank" href="/Charge/Reg.asp">注册</a>|
 								<a href="#" onclick="setHome(this, window.location)">设为首页</a>|
 								<a href="#" onclick="addFavorite(window.location,'孙老师课堂')">加入收藏</a>|
 								<a href="#">在线中心</a>|
@@ -516,7 +516,7 @@ body {
 					<p class="baomingContent_2">原价：780元</p>
 					<p class="baomingContent_3"><b>暑期优惠价 498元/年</b></p>
 					<p class="baomingContent_4"><b>报名即赠48元教材</b></p>
-					<div style="text-align:center;padding:10px 0px;"><a href="/Charge/Reg.asp"><img src="/assets/images/btn-baoming.png" /></a></div>
+					<div style="text-align:center;padding:10px 0px;"><a target="_blank" href="/Charge/Reg.asp"><img src="/assets/images/btn-baoming.png" /></a></div>
 				</div>
 			</div>
 			</td>
@@ -530,7 +530,7 @@ body {
 					<p class="baomingContent_2">原价：980元</p>
 					<p class="baomingContent_3"><b>暑期优惠价 598元/年</b></p>
 					<p class="baomingContent_4"><b>报名即赠68元教材</b></p>
-					<div style="text-align:center;padding:10px 0px;"><a href="/Charge/Reg.asp"><img src="/assets/images/btn-baoming.png" /></a></div>
+					<div style="text-align:center;padding:10px 0px;"><a target="_blank" href="/Charge/Reg.asp"><img src="/assets/images/btn-baoming.png" /></a></div>
 				</div>
 			</div>
 			</td>
@@ -545,7 +545,7 @@ body {
 					<p class="baomingContent_3"><b>暑期优惠价 870元/年</b></p>
 					<p class="baomingContent_4"><b>报名即赠118元教材</b></p>					
 					<div style="text-align:center;padding:10px 0px;">
-						<a href="/Charge/Reg.asp"><img src="/assets/images/btn-baoming.png" /></a>
+						<a target="_blank" href="/Charge/Reg.asp"><img src="/assets/images/btn-baoming.png" /></a>
 					</div>
 				</div>
 			</div>
@@ -561,7 +561,7 @@ body {
 					<p class="baomingContent_2">套餐原价：1800元</p>
 					<p class="baomingContent_3"><b>暑期优惠价 970元/年</b></p>
 					<p class="baomingContent_4"><b>报名即赠98元教材</b></p>
-					<div style="text-align:center;padding:10px 0px;"><a href="/Charge/Reg.asp"><img src="/assets/images/btn-baoming.png" /></a></div>
+					<div style="text-align:center;padding:10px 0px;"><a target="_blank" href="/Charge/Reg.asp"><img src="/assets/images/btn-baoming.png" /></a></div>
 				</div>
 			</div>
 			</td></tr>
