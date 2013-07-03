@@ -8,7 +8,7 @@ import net.paoding.rose.web.annotation.rest.Get;
 public class IndexController extends AbstractController {
 	@Get("")
 	public String root(Invocation inv) {
-		return "r:index.html";
+		return r("index.html", inv);
 	}
 
 	@Get("index.html")
