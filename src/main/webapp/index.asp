@@ -45,7 +45,7 @@ body {
 					<table style="width:100%">
 					<tr><td align="left">
 						<div class="">
-							<p class="headText">欢迎进入孙老师课堂！孙老师本人可以验证，电话:18888845623</p>
+							<p class="headText"></p>
 						</div></td>
 						<td align="right"><div class="">
 							<div class="headText" style="float: right">

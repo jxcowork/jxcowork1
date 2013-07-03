@@ -670,7 +670,7 @@ body {
 		s1.addVariable("linktarget","_blank");
 		s1.write("container");
 	</script>
-	  <script src="assets/js/jquery.scrollUp.min.js"></script>
+	  <script src="/assets/js/jquery.scrollUp.min.js"></script>
     <script>
       jQuery(document).ready(function(){
     	  jQuery.scrollUp({
