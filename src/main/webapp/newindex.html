@@ -756,7 +756,7 @@ body {
 	<script type="text/javascript" src="/assets/jwplayer/jwplayer.js"></script>
 	<script type="text/javascript" src="/assets/js/swfobject.js"></script>
 	<script type="text/javascript" src="/assets/js/common.js" charset="utf8"></script>
-    <script src="assets/js/jquery.scrollUp.min.js"></script>
+    <script src="/assets/js/jquery.scrollUp.min.js"></script>
     <script>
       jQuery(document).ready(function(){
     	  jQuery.scrollUp({
@@ -778,9 +778,6 @@ body {
     	  startMarquee();
       });
     </script>
-	<script type="text/javascript">
-	var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
-	document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F8e1ebf318d56927010e89c9d0f4b269d' type='text/javascript'%3E%3C/script%3E"));
-	</script>
+<script type="text/javascript" src="http://lead.soperson.com/10029612/10032695.js"></script>
 </body>
 </html>
