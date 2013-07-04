@@ -416,7 +416,7 @@ body {
 			
 			<!-- 1 -->
 			<tr>
-				<td colspan="1"><img src="/assets/images/xueyuanfenxiang1.png" /></td>
+				<td colspan="1"><img style="width:150px;height:150px;" src="/assets/images/xueyuanfenxiang1.png" /></td>
 				<td colspan="3">
 					<div class="fenxiang_content">
 								<a target="_blank" href="http://bbs.teachersun.com/bbs_tj.asp?ztid=90510" class="blueLink" >只认识26个字母, 却奇迹般地考过了- 孙老师 是您给了我自信</a><br/>
@@ -431,7 +431,7 @@ body {
 			
 			<!-- 2 -->
 			<tr>
-				<td colspan="1"><img src="/assets/images/xueyuanfenxiang2.png" /></td>
+				<td colspan="1"><img style="width:150px;height:150px;" src="/assets/images/xueyuanfenxiang2.png" /></td>
 				<td colspan="1">
 				<div class="fenxiang_content">
 					<a target="_blank" href="http://bbs.teachersun.com/" class="blueLink">10年没看英语竟然也考过了</a><br/>
@@ -440,7 +440,7 @@ body {
 					</p>
 				</div>
 				</td>
-				<td colspan="1"><img src="/assets/images/xueyuanfenxiang3.png" /></td>
+				<td colspan="1"><img style="width:150px;height:150px;" src="/assets/images/xueyuanfenxiang3.png" /></td>
 				<td colspan="1">
 				<div class="fenxiang_content_right">
 					<a target="_blank" href="http://bbs.teachersun.com/bbs_tj.asp?ztid=20784" class="blueLink">和孩子一起成为您的学生</a>
@@ -455,7 +455,7 @@ body {
 			
 			<!-- 3 -->
 			<tr>
-				<td colspan="1"><img src="/assets/images/xueyuanfenxiang4.png" /></td>
+				<td colspan="1"><img style="width:150px;height:150px;" src="/assets/images/xueyuanfenxiang4.png" /></td>
 				<td colspan="1">
 				<div class="fenxiang_content">
 					<a target="_blank" href="http://bbs.teachersun.com/bbs_tj.asp?ztid=76617" class="blueLink">孙老师, 您是我们一家人的老师</a><br/>
@@ -466,7 +466,7 @@ body {
     				</p>
     			</div>
     			</td>
-				<td colspan="1"><img src="/assets/images/xueyuanfenxiang5.png" /></td>
+				<td colspan="1"><img style="width:150px;height:150px;" src="/assets/images/xueyuanfenxiang5.png" /></td>
 				<td colspan="1">
 				<div class="fenxiang_content_right">
 					<a target="_blank" href="http://bbs.teachersun.com/bbs_tj.asp?ztid=90944" class="blueLink">"三无"人员居然考了70分，感谢孙老师</a>
