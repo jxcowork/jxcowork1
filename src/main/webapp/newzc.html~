@@ -47,8 +47,8 @@ body {
 						</div></td>
 						<td align="right"><div class="">
 							<div class="headText" style="float: right">
-								<a href="#">会员登录</a>|
-								<a href="#">注册</a>|
+								<a href="#login">会员登录</a>|
+								<a href="/Charge/Reg.asp">注册</a>|
 								<a href="#" onclick="setHome(this, window.location)">设为首页</a>|
 								<a href="#" onclick="addFavorite(window.location,'孙老师课堂')">加入收藏</a>|
 								<a href="#">在线中心</a>|
