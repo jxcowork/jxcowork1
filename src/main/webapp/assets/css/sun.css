@@ -190,3 +190,40 @@ p {
 margin:0; padding:0; bottom:3px; right:5px; height:20px} 
 #banner ul li { padding:0 8px; line-height:18px;float:left;display:block;color:#FFF;border:#e5eaff 1px solid;background-color:#6f4f67;cursor:pointer; margin:0; font-size:16px;} 
 #banner_list a{position:absolute;}
+
+.chart {
+	width:100%;
+}
+.chart th {
+	font-weight:bold;
+	background-image: linear-gradient(to bottom, #FEFEFE, #F2F2F2);
+	background-color:#F7F7F7;
+	line-height:45px;
+	align:center;
+	text-align:center;
+	border:solid 1px #D6D6D6;
+}
+.chart td {
+	font-weight:bold;
+	background-color:#FCFCFC;
+	line-height:60px;
+	align:center;
+	text-align:center;
+	border:solid 1px #D6D6D6;
+}
+.totalPay {
+	font-size:30px;
+	color:#FF2A28;
+}
+.chartFooter td{
+	background-color:#F0F0F0;
+}
+.pay {
+	margin-top:10px;
+	height:300px;
+	border:2px solid #FFD793;
+	background-color:#FFFBF5;
+}
+.payImage {
+	border:2px solid #FFE3B7;	
+}
