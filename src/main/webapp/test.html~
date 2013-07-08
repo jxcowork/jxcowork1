@@ -4,7 +4,7 @@
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
 </head>
 <body>
-<form action="http://oneboxhost/spbook/sync/ypdata114" method="POST">
+<form action="http://staging.api.comm.miui.com/spbook/sync/ypdata114" method="POST">
 hid:<input name="hid" value="test"><br/>
 <textarea name="data">
 </textarea><br/>
