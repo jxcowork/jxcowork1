@@ -328,7 +328,7 @@ body {
 							<tr>
 								<td width="250px" height="150px">
 									<a href="/xxyy/">
-										<img src="/assets/images/video.png">
+										<img src="/assets/images/video01.jpg">
 									</a>
 								</td>
 								<td style="padding-left:10px">
@@ -346,7 +346,7 @@ body {
 							<tr>
 								<td width="250px" height="150px">
 									<a href="/czyy/">
-										<img src="/assets/images/video.png">
+										<img src="/assets/images/video02.jpg">
 									</a>
 								</td>
 								<td style="padding-left:10px">
@@ -364,7 +364,7 @@ body {
 							<tr>
 								<td width="250px" height="150px">
 									<a href="/gzyy/">
-										<img src="/assets/images/video.png">
+										<img src="/assets/images/video03.jpg">
 									</a>
 								</td>
 								<td style="padding-left:10px">
@@ -509,7 +509,7 @@ body {
 			<!-- 1 -->
 			<div class="adboard">
 				<div class="shadow" style="text-align:center;width:95%;">
-					<h3 class="baomingTitle" style="background-image:url(/assets/images/bgred.png)">小升初英语</h3>
+					<h3 class="baomingTitle">小升初英语</h3>
 					<p class="baomingContent_1"><img src="/assets/images/xiaoshengchu.png"></p>
 					<p class="baomingContent_2">一年不限时不限次数</p>
 					<p class="baomingContent_25">成为班级尖子生</p>
@@ -523,7 +523,7 @@ body {
 			<!-- 2 -->
 			<td><div class="adboard">
 				<div class="shadow" style="text-align:center;width:95%;">
-					<h3 class="baomingTitle" style="background-image:url(/assets/images/bgyellow.png)">初中英语</h3>
+					<h3 class="baomingTitle">初中英语</h3>
 					<p class="baomingContent_1"><img src="/assets/images/chuzhong.png"></p>
 					<p class="baomingContent_2">一年不限时不限次数</p>
 					<p class="baomingContent_25">最少提高30分</p>
@@ -537,7 +537,7 @@ body {
 			<!-- 3 -->
 			<td><div class="adboard">
 				<div class="shadow" style="text-align:center;width:95%;">
-					<h3 class="baomingTitle" style="background-image:url(/assets/images/bgblue.png)">中考英语</h3>
+					<h3 class="baomingTitle">中考英语</h3>
 					<p class="baomingContent_1"><img src="/assets/images/zhongkao.png"></p>
 					<p class="baomingContent_2">一年不限时不限次数</p>
 					<p class="baomingContent_25">中考提高30-60分</p>
@@ -554,7 +554,7 @@ body {
 			<td>
 			<div class="adboard">
 				<div class="shadow" style="text-align:center;width:95%;">
-					<h3 class="baomingTitle" style="background-image:url(/assets/images/bggreen.png)">高中高考英语</h3>
+					<h3 class="baomingTitle">高中高考英语</h3>
 					<p class="baomingContent_1"><img src="/assets/images/gaokao.png"></p>
 					<p class="baomingContent_2">一年不限时不限次数</p>
 					<p class="baomingContent_25">高考提高30-80分</p>

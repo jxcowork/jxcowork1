@@ -324,7 +324,7 @@ body {
 					<div class="span12" style="width:100%;margin-left: 10px;">
 						<table style="width:100%">
 							<tr>
-								<td width="250px" height="150px"><a target="_blank" href="/free/ftvshow.asp?ZY1302" title="点击试听:2014年展望与2013职称英语考试原卷分析"><img src="/assets/images/video.png"></a></td>
+								<td width="250px" height="150px"><a target="_blank" href="/free/ftvshow.asp?ZY1302" title="点击试听:2014年展望与2013职称英语考试原卷分析"><img src="/assets/images/video01.jpg"></a></td>
 								<td>
 									
 									<p><font class="redAndbold">2014年展望与2013职称英语考试原卷分析</font></p>
@@ -336,7 +336,7 @@ body {
 								</td>
 							</tr>
 							<tr>
-								<td width="250px" height="150px"><a target="_blank" href="/free/ftvshow.asp?ZY1301" title="点击试听:2013考试预测与2012原卷联系和分析"><img src="/assets/images/video.png"></a></td>
+								<td width="250px" height="150px"><a target="_blank" href="/free/ftvshow.asp?ZY1301" title="点击试听:2013考试预测与2012原卷联系和分析"><img src="/assets/images/video02.jpg"></a></td>
 								<td>
 									<p><font class="redAndbold">【专业第一课】</font></p>
 									<p><font class="redAndbold">2013考试预测与2012原卷联系和分析</font></p>
@@ -348,7 +348,7 @@ body {
 								</td>
 							</tr>
 							<tr>
-								<td width="250px" height="150px"><a target="_blank" href="/free/ftvshow.asp?ZCJZ007" title="点击试听:建立英文思维与句子的三种模式"><img src="/assets/images/video.png"></a></td>
+								<td width="250px" height="150px"><a target="_blank" href="/free/ftvshow.asp?ZCJZ007" title="点击试听:建立英文思维与句子的三种模式"><img src="/assets/images/video03.jpg"></a></td>
 								<td>
 									<p><font class="redAndbold">【基础第一课】</font></p>
 									<p><font class="redAndbold">建立英文思维与句子的三种模式</font></p>
@@ -558,7 +558,7 @@ body {
 			<td>
 			<div class="adboard">
 				<div class="shadow" style="text-align:center;width:95%;">
-					<h2 class="baomingTitle" style="background-image:url(/assets/images/bgred.png)">综合类</h2>
+					<h2 class="baomingTitle">综合类</h2>
 					<p class="baomingContent">综合A考试培训</p>
 					<p class="baomingContent">综合B考试培训</p>
 					<p class="baomingContent">综合C考试培训</p>
@@ -573,7 +573,7 @@ body {
 			<td>
 			<div class="adboard"">
 				<div class="shadow" style="text-align:center;width:95%;">
-					<h2 class="baomingTitle" style="background-image:url(/assets/images/bgyellow.png)">理工类</h2>
+					<h2 class="baomingTitle">理工类</h2>
 					<p class="baomingContent">理工A考试培训</p>
 					<p class="baomingContent">理工B考试培训</p>
 					<p class="baomingContent">理工C考试培训</p>
@@ -588,7 +588,7 @@ body {
 			<td>
 			<div class="adboard">
 				<div class="shadow" style="text-align:center;width:95%;">
-					<h2 class="baomingTitle" style="background-image:url(/assets/images/bgblue.png)">卫生类</h2>
+					<h2 class="baomingTitle">卫生类</h2>
 					<p class="baomingContent">卫生A考试培训</p>
 					<p class="baomingContent">卫生B考试培训</p>
 					<p class="baomingContent">卫生C考试培训</p>
