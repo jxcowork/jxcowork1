@@ -510,6 +510,7 @@ body {
 			<div class="adboard">
 				<div class="shadow" style="text-align:center;width:95%;">
 					<h3 class="baomingTitle">小升初英语</h3>
+					<p class="baomingContent_blue">适用:小学四年级~初一学生<br/>&nbsp;</p>
 					<p class="baomingContent_1"><img src="/assets/images/xiaoshengchu.png"></p>
 					<p class="baomingContent_2">一年不限时不限次数</p>
 					<p class="baomingContent_25">成为班级尖子生</p>
@@ -524,6 +525,7 @@ body {
 			<td><div class="adboard">
 				<div class="shadow" style="text-align:center;width:95%;">
 					<h3 class="baomingTitle">初中英语</h3>
+					<p class="baomingContent_blue">适用:初二、初三及高中英语<br/>基础较差的学生</p>
 					<p class="baomingContent_1"><img src="/assets/images/chuzhong.png"></p>
 					<p class="baomingContent_2">一年不限时不限次数</p>
 					<p class="baomingContent_25">最少提高30分</p>
@@ -538,6 +540,7 @@ body {
 			<td><div class="adboard">
 				<div class="shadow" style="text-align:center;width:95%;">
 					<h3 class="baomingTitle">中考英语</h3>
+					<p class="baomingContent_blue">适用:高一~高三学生<br/>&nbsp;</p>
 					<p class="baomingContent_1"><img src="/assets/images/zhongkao.png"></p>
 					<p class="baomingContent_2">一年不限时不限次数</p>
 					<p class="baomingContent_25">中考提高30-60分</p>
@@ -555,6 +558,7 @@ body {
 			<div class="adboard">
 				<div class="shadow" style="text-align:center;width:95%;">
 					<h3 class="baomingTitle">高中高考英语</h3>
+					<p class="baomingContent_blue">适用:初三及高中英语基础<br/>较差的学生</p>
 					<p class="baomingContent_1"><img src="/assets/images/gaokao.png"></p>
 					<p class="baomingContent_2">一年不限时不限次数</p>
 					<p class="baomingContent_25">高考提高30-80分</p>
