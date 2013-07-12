@@ -340,7 +340,7 @@ body {
 									</div>
 								</td>
 								<td>
-									<a class="btn btn-primary btn-large" target="_blank" style="font-weight:bold;line-height:40px;" href="/xxyy/">点击进入</a>
+									<a class="btn btn-primary btn-large" target="_blank" style="font-weight:bold;line-height:40px;" href="/xxyy/">免费试听<br/>点击进入</a>
 								</td>
 							</tr>
 							<tr>
@@ -358,7 +358,7 @@ body {
 									</div>
 								</td>
 								<td>
-									<a class="btn btn-primary btn-large" target="_blank" style="font-weight:bold;line-height:40px;" href="/czyy/">点击进入</a>
+									<a class="btn btn-primary btn-large" target="_blank" style="font-weight:bold;line-height:40px;" href="/czyy/">免费试听<br/>点击进入</a>
 								</td>
 							</tr>
 							<tr>
@@ -378,7 +378,7 @@ body {
 									</div>
 								</td>
 								<td>
-									<a class="btn btn-primary btn-large" target="_blank" style="font-weight:bold;line-height:40px;" href="/gzyy/">点击进入</a>
+									<a class="btn btn-primary btn-large" target="_blank" style="font-weight:bold;line-height:40px;" href="/gzyy/">免费试听<br/>点击进入</a>
 								</td>
 							</tr>
 						</table>
@@ -516,7 +516,7 @@ body {
 					<p class="baomingContent_25">成为班级尖子生</p>
 					<p class="baomingContent_2">原价：780元</p>
 					<p class="baomingContent_3"><b>暑期优惠价 498元/年</b></p>
-					<p class="baomingContent_4"><b>报名即赠48元教材</b></p>
+					<p class="baomingContent_4"><b>报名即赠教材</b></p>
 					<div style="text-align:center;padding:10px 0px;"><a target="_blank" href="/Charge/Reg.asp"><img src="/assets/images/btn-baoming.png" /></a></div>
 				</div>
 			</div>
@@ -531,7 +531,7 @@ body {
 					<p class="baomingContent_25">最少提高30分</p>
 					<p class="baomingContent_2">原价：980元</p>
 					<p class="baomingContent_3"><b>暑期优惠价 598元/年</b></p>
-					<p class="baomingContent_4"><b>报名即赠68元教材</b></p>
+					<p class="baomingContent_4"><b>报名即赠教材</b></p>
 					<div style="text-align:center;padding:10px 0px;"><a target="_blank" href="/Charge/Reg.asp"><img src="/assets/images/btn-baoming.png" /></a></div>
 				</div>
 			</div>
@@ -540,13 +540,13 @@ body {
 			<td><div class="adboard">
 				<div class="shadow" style="text-align:center;width:95%;">
 					<h3 class="baomingTitle">中考英语</h3>
-					<p class="baomingContent_blue">适用:高一~高三学生<br/>&nbsp;</p>
+					<p class="baomingContent_blue">适用:初三及高中英语基础<br/>较差的学生</p>
 					<p class="baomingContent_1"><img src="/assets/images/zhongkao.png"></p>
 					<p class="baomingContent_2">一年不限时不限次数</p>
 					<p class="baomingContent_25">中考提高30-60分</p>
 					<p class="baomingContent_2">套餐原价：1500元</p>
 					<p class="baomingContent_3"><b>暑期优惠价 870元/年</b></p>
-					<p class="baomingContent_4"><b>报名即赠118元教材</b></p>					
+					<p class="baomingContent_4"><b>报名即赠教材</b></p>					
 					<div style="text-align:center;padding:10px 0px;">
 						<a target="_blank" href="/Charge/Reg.asp"><img src="/assets/images/btn-baoming.png" /></a>
 					</div>
@@ -558,13 +558,13 @@ body {
 			<div class="adboard">
 				<div class="shadow" style="text-align:center;width:95%;">
 					<h3 class="baomingTitle">高中高考英语</h3>
-					<p class="baomingContent_blue">适用:初三及高中英语基础<br/>较差的学生</p>
+					<p class="baomingContent_blue">适用:高一~高三学生<br/>&nbsp;</p>
 					<p class="baomingContent_1"><img src="/assets/images/gaokao.png"></p>
 					<p class="baomingContent_2">一年不限时不限次数</p>
 					<p class="baomingContent_25">高考提高30-80分</p>
 					<p class="baomingContent_2">套餐原价：1800元</p>
 					<p class="baomingContent_3"><b>暑期优惠价 970元/年</b></p>
-					<p class="baomingContent_4"><b>报名即赠98元教材</b></p>
+					<p class="baomingContent_4"><b>报名即赠教材</b></p>
 					<div style="text-align:center;padding:10px 0px;"><a target="_blank" href="/Charge/Reg.asp"><img src="/assets/images/btn-baoming.png" /></a></div>
 				</div>
 			</div>
@@ -783,5 +783,11 @@ body {
       });
     </script>
 <script type="text/javascript" src="http://lead.soperson.com/10029612/10032695.js"></script>
+<!-- teachersun.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F8e1ebf318d56927010e89c9d0f4b269d' type='text/javascript'%3E%3C/script%3E"));
+</script>
 </body>
 </html>
+<script language="JavaScript" src="http://www5.dianji007.com/bls/srv/s?uid=20071031005&sty=4"></script>
