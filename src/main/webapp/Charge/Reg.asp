@@ -348,11 +348,11 @@
                       <td colspan="7" height="30"></td>
                     </tr>
                     <TR>
-                      <TD colspan="7" align="center" bgcolor="#f1f2f4"><font color="red" style="font-size:16px; line-height:20px"><strong>职称英语春节保过特惠班</strong></font></TD>
+                      <TD colspan="7" align="center" bgcolor="#f1f2f4"><font color="red" style="font-size:16px; line-height:20px"><strong>职称英语包过全额退费班</strong></font></TD>
                     </TR>
                     <TR>
-                      <TD colspan="7" align="left" bgcolor="#ffffff">凡参加《职称英语春节保过特惠班》未通过学员，全部免费重读一次！<br>
-免费重读条件：<br>
+                      <TD colspan="7" align="left" bgcolor="#ffffff">凡参加《职称英语包过全额退费班》未通过学员，全额退费！<br>
+全额退费条件：<br>
 1.注册必须用真实姓名注册，必须参加国家考试。<br>
 2.必须在2013年国家公布分数期间，向我们提供您的查询方式。核实未通过学员姓名与注册一致。<br>
 3.孙老师特别提示：全程班的同学如果今年万一没过，请在2013年10月31日前办理免费重读。过期不再办理！<br>
@@ -407,7 +407,7 @@
 	%>
 					<%if 1 then%>
                     <tr bgcolor="#FFFFFF">
-                      <td colspan="7" align="center"><font color="#FF0000" style="font-size:12px; line-height:18px">－此课程赠送字典（90元），应试技巧教材一本。课程开通后，可免费下载基础与专业部分的文字教材。－</font></td>
+                      <td colspan="7" align="center"><font color="#FF0000" style="font-size:12px; line-height:18px">－此课程课程开通后，可免费下载基础与专业部分的文字教材。－</font></td>
                     </tr>
                     <%end if%>
                     <tr bgcolor="#FFFFFF">
