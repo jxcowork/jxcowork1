@@ -4,11 +4,22 @@
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
 </head>
 <body>
-<form action="http://10.20.12.56:8086/spbook/sync/ypdata114" method="POST">
+<br/>测试114上传接口:
+<form action="http://oneboxhost/spbook/sync/ypdata114" method="POST">
 hid:<input name="hid" value="test"><br/>
-<textarea name="data">
+<textarea name="data" style="width:100%;" rows="10">
+</textarea><br/>
+<input value="提交" type="submit">
+</form>
+
+<br/>测试标记号码上传接口:
+<form action="http://oneboxhost/spbook/atd/v2/ugcmarks" method="POST">
+hid:<input name="hid" value="test"><br/>
+act:<input name="act" value="2"><br/>
+<textarea name="data" style="width:100%;" rows="10">
 </textarea><br/>
 <input value="提交" type="submit">
 </form>
 </body>
 </html>
+
