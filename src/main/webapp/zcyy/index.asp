@@ -332,7 +332,7 @@ body {
 									<p>2013年职称考试为什么没过，2014年怎么通过！！！</p>
 								</td>
 								<td width="180px">
-									<a target="_blank" href="/free/ftvshow.asp?ZY1302" class="btn btn-warning btn-large" title="点击试听:2014年展望与2013职称英语考试原卷分析" style="font-weight:bold;line-height:40px;">点击试听</a>
+									<a target="_blank" href="/free/ftvshow.asp?ZY1302" class="btn btn-warning btn-large" title="点击试听:2014年展望与2013职称英语考试原卷分析" style="font-weight:bold;line-height:40px;">点击进入</a>
 								</td>
 							</tr>
 							<tr>
@@ -344,7 +344,7 @@ body {
 									<p>而人品中最关键的是：高度负责</p>
 								</td>
 								<td width="180px">
-									<a target="_blank" href="/free/ftvshow.asp?ZY1301" class="btn btn-warning btn-large" title="点击试听:2013考试预测与2012原卷联系和分析" style="font-weight:bold;line-height:40px;">点击试听</a>
+									<a target="_blank" href="/free/ftvshow.asp?ZY1301" class="btn btn-warning btn-large" title="点击试听:2013考试预测与2012原卷联系和分析" style="font-weight:bold;line-height:40px;">点击进入</a>
 								</td>
 							</tr>
 							<tr>
@@ -355,7 +355,7 @@ body {
 									<p>告诉你英语非常简单，一共就三句话！！</p>
 								</td>
 								<td width="180px">
-									<a target="_blank" href="/free/ftvshow.asp?ZCJZ007" class="btn btn-warning btn-large" title="点击试听:建立英文思维与句子的三种模式" style="font-weight:bold;line-height:40px;">点击试听</a>
+									<a target="_blank" href="/free/ftvshow.asp?ZCJZ007" class="btn btn-warning btn-large" title="点击试听:建立英文思维与句子的三种模式" style="font-weight:bold;line-height:40px;">点击进入</a>
 								</td>
 							</tr>
 						</table>
@@ -515,7 +515,7 @@ body {
 			<tr><td>
 			<div class="span4" style="padding-top: 70px;padding-left:15px;width:100%">
 			<div style="text-align:center;">
-				<font style="font-size:24px;font-weight:bold;color:#FF0000;width:100%;">20课时</font>
+				<font style="font-size:24px;font-weight:bold;color:#FF0000;width:100%;">&nbsp;</font>
 				<div style="text-align:left;padding-left: 30px;">
 					<p>讲座一 2012职称英语考试总结与原卷分析 </p>
 					<p>讲座二 2013年职称应试简介</p>
@@ -526,7 +526,7 @@ body {
 				<p style="margin-left:30px;"><a href="#" class="blueLink">点击查看详细&gt;&gt;</a></p>
 			</div></td><td>
 			<div class="span4" style="padding-top: 70px;padding-left:0px;width:100%">
-				<div style="text-align:center;"><font style="font-size:24px;font-weight:bold;color:#FF0000;width:100%;">23课时</font>
+				<div style="text-align:center;"><font style="font-size:24px;font-weight:bold;color:#FF0000;width:100%;">&nbsp;</font>
 					<div style="text-align:left;padding-left: 30px;">
 						<p>讲座一 2012职称英语考试总结与原卷分析</p>
 						<p>讲座二 2013年职称应试简介</p>
@@ -537,7 +537,7 @@ body {
 				<p style="margin-left:30px;"><a href="#" class="blueLink">点击查看详细&gt;&gt;</a></p>
 			</div></td><td>
 			<div class="span4" style="padding-top: 70px;padding-left:5px;margin-left:0px;width:100%">
-			<div style="text-align:center;"><font style="font-size:24px;font-weight:bold;color:#FF0000;width:100%;">27课时</font>
+			<div style="text-align:center;"><font style="font-size:24px;font-weight:bold;color:#FF0000;width:100%;">&nbsp;</font>
 				<div style="text-align:left;padding-left: 30px;">
 					<p>讲座一 2012职称英语考试总结与原卷分析</p>
 					<p>讲座二 2013年职称应试简介</p>
@@ -693,5 +693,10 @@ body {
       });
     </script>
 	<script type="text/javascript" src="http://lead.soperson.com/10029612/10032695.js"></script>
+<!-- teachersun.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F8e1ebf318d56927010e89c9d0f4b269d' type='text/javascript'%3E%3C/script%3E"));
+</script>
 </body>
 </html>
