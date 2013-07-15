@@ -311,7 +311,7 @@ body {
 						</div>
 						<div class="span12" style="height:2px;border:1px solid #BBBBBB;min-height:2px;margin:10px 0px;"></div>
 						<div class="span12">
-							<img src="/assets/images/zhongxiaoxuebold.png">
+							<a href="/"><img src="/assets/images/zhongxiaoxuebold.png"></a>
 						</div>
 				</div>
 			</div>

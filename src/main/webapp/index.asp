@@ -515,7 +515,7 @@ body {
 					<p class="baomingContent_2">一年不限时不限次数</p>
 					<p class="baomingContent_25">成为班级尖子生</p>
 					<p class="baomingContent_2">原价：780元</p>
-					<p class="baomingContent_3"><b>暑期优惠价 498元/年</b></p>
+					<p class="baomingContent_3"><b>暑期优惠价 508元/年</b></p>
 					<p class="baomingContent_4"><b>报名即赠教材</b></p>
 					<div style="text-align:center;padding:10px 0px;"><a target="_blank" href="/Charge/Reg.asp"><img src="/assets/images/btn-baoming.png" /></a></div>
 				</div>
@@ -530,7 +530,7 @@ body {
 					<p class="baomingContent_2">一年不限时不限次数</p>
 					<p class="baomingContent_25">最少提高30分</p>
 					<p class="baomingContent_2">原价：980元</p>
-					<p class="baomingContent_3"><b>暑期优惠价 598元/年</b></p>
+					<p class="baomingContent_3"><b>暑期优惠价 608元/年</b></p>
 					<p class="baomingContent_4"><b>报名即赠教材</b></p>
 					<div style="text-align:center;padding:10px 0px;"><a target="_blank" href="/Charge/Reg.asp"><img src="/assets/images/btn-baoming.png" /></a></div>
 				</div>
@@ -545,7 +545,7 @@ body {
 					<p class="baomingContent_2">一年不限时不限次数</p>
 					<p class="baomingContent_25">中考提高30-60分</p>
 					<p class="baomingContent_2">套餐原价：1500元</p>
-					<p class="baomingContent_3"><b>暑期优惠价 870元/年</b></p>
+					<p class="baomingContent_3"><b>暑期优惠价 880元/年</b></p>
 					<p class="baomingContent_4"><b>报名即赠教材</b></p>					
 					<div style="text-align:center;padding:10px 0px;">
 						<a target="_blank" href="/Charge/Reg.asp"><img src="/assets/images/btn-baoming.png" /></a>
@@ -563,7 +563,7 @@ body {
 					<p class="baomingContent_2">一年不限时不限次数</p>
 					<p class="baomingContent_25">高考提高30-80分</p>
 					<p class="baomingContent_2">套餐原价：1800元</p>
-					<p class="baomingContent_3"><b>暑期优惠价 970元/年</b></p>
+					<p class="baomingContent_3"><b>暑期优惠价 980元/年</b></p>
 					<p class="baomingContent_4"><b>报名即赠教材</b></p>
 					<div style="text-align:center;padding:10px 0px;"><a target="_blank" href="/Charge/Reg.asp"><img src="/assets/images/btn-baoming.png" /></a></div>
 				</div>
