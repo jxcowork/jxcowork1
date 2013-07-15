@@ -324,7 +324,7 @@ body {
 					<div class="span12" style="width:100%;margin-left: 10px;">
 						<table style="width:100%">
 							<tr>
-								<td width="250px" height="150px"><a target="_blank" href="/free/ftvshow.asp?ZY1302" title="点击试听:2014年展望与2013职称英语考试原卷分析"><img src="/assets/images/video.png"></a></td>
+								<td width="250px" height="150px"><a target="_blank" href="/free/ftvshow.asp?ZY1302" title="点击试听:2014年展望与2013职称英语考试原卷分析"><img src="/assets/images/zc01.jpg"></a></td>
 								<td>
 									
 									<p><font class="redAndbold">2014年展望与2013职称英语考试原卷分析</font></p>
@@ -336,7 +336,18 @@ body {
 								</td>
 							</tr>
 							<tr>
-								<td width="250px" height="150px"><a target="_blank" href="/free/ftvshow.asp?ZY1301" title="点击试听:2013考试预测与2012原卷联系和分析"><img src="/assets/images/video.png"></a></td>
+								<td width="250px" height="150px"><a target="_blank" href="/free/ftvshow.asp?ZCJZ007" title="点击试听:建立英文思维与句子的三种模式"><img src="/assets/images/zc02.jpg"></a></td>
+								<td>
+									<p><font class="redAndbold">【基础第一课】</font></p>
+									<p><font class="redAndbold">建立英文思维与句子的三种模式</font></p>
+									<p>告诉你英语非常简单，一共就三句话！！</p>
+								</td>
+								<td width="180px">
+									<a target="_blank" href="/free/ftvshow.asp?ZCJZ007" class="btn btn-warning btn-large" title="点击试听:建立英文思维与句子的三种模式" style="font-weight:bold;line-height:40px;">点击进入</a>
+								</td>
+							</tr>
+							<tr>
+								<td width="250px" height="150px"><a target="_blank" href="/free/ftvshow.asp?ZY1301" title="点击试听:2013考试预测与2012原卷联系和分析"><img src="/assets/images/zc03.jpg"></a></td>
 								<td>
 									<p><font class="redAndbold">【专业第一课】</font></p>
 									<p><font class="redAndbold">2013考试预测与2012原卷联系和分析</font></p>
@@ -345,17 +356,6 @@ body {
 								</td>
 								<td width="180px">
 									<a target="_blank" href="/free/ftvshow.asp?ZY1301" class="btn btn-warning btn-large" title="点击试听:2013考试预测与2012原卷联系和分析" style="font-weight:bold;line-height:40px;">点击进入</a>
-								</td>
-							</tr>
-							<tr>
-								<td width="250px" height="150px"><a target="_blank" href="/free/ftvshow.asp?ZCJZ007" title="点击试听:建立英文思维与句子的三种模式"><img src="/assets/images/video.png"></a></td>
-								<td>
-									<p><font class="redAndbold">【基础第一课】</font></p>
-									<p><font class="redAndbold">建立英文思维与句子的三种模式</font></p>
-									<p>告诉你英语非常简单，一共就三句话！！</p>
-								</td>
-								<td width="180px">
-									<a target="_blank" href="/free/ftvshow.asp?ZCJZ007" class="btn btn-warning btn-large" title="点击试听:建立英文思维与句子的三种模式" style="font-weight:bold;line-height:40px;">点击进入</a>
 								</td>
 							</tr>
 						</table>
