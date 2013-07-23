@@ -81,7 +81,6 @@ body {
 						<li><a target="_blank" title="孙老师课堂--英语贴吧" href="http://bbs.teachersun.com/">英语贴吧</a></li>
 						<li><a target="_blank" title="孙老师课堂--免费试听课" href="/free/">免费试听课</a></li>
 						<li><a target="_blank" title="孙老师课堂--孙老师介绍" target="_blank" href="/sunlaoshi/">孙老师介绍</a></li>
-						<li><a target="_blank" title="孙老师课堂--联系我们" target="_blank" href="/About/">联系我们</a></li>
 					</ul>
 				</div>
 			</div>
@@ -317,7 +316,7 @@ body {
 						</div>
 						<div class="span12" style="height:2px;border:1px solid #BBBBBB;min-height:2px;margin:10px 0px;"></div>
 						<div class="span12">
-							<img src="/assets/images/zhongxiaoxuebold.png">
+							<a href="/"><img src="/assets/images/zhongxiaoxuebold.png"></a>
 						</div>
 			</td>
 			<td>
@@ -326,13 +325,13 @@ body {
 					<div class="span12" style="width:100%">
 						<table style="width:100%">
 							<tr>
-								<td width="250px" height="150px">
+								<td width="250px" height="112px">
 									<a href="/xxyy/">
-										<img src="/assets/images/video01.jpg">
+										<img height="112px" style="height:112px" src="/assets/images/video01.jpg">
 									</a>
 								</td>
 								<td style="padding-left:10px">
-									<div style="height:150px;margin-top:20px;margin-left:10px;">
+									<div style="height:112px;margin-top:20px;margin-left:10px;">
 										<p><font class="redAndbold" style="font-size:18px;">小升初英语试听课</font></p>
 										<p><font style="font-size:12px">*英语第一种句型be句型 I</font></p>
 										<p><font style="font-size:12px">*主谓宾状句型的时态</font></p>
@@ -344,14 +343,14 @@ body {
 								</td>
 							</tr>
 							<tr>
-								<td width="250px" height="150px">
+								<td width="250px" height="112px">
 									<a href="/czyy/">
-										<img src="/assets/images/video02.jpg">
+										<img height="112px" style="height:112px" src="/assets/images/video02.jpg">
 									</a>
 								</td>
 								<td style="padding-left:10px">
-									<div style="height:150px;margin-top:10px;margin-left:10px;">
-									<p><font class="redAndbold" style="font-size:18px;">初中中考试听课</font></p>
+									<div style="height:112px;margin-top:10px;margin-left:10px;">
+									<p><font class="redAndbold" style="font-size:18px;">初中试听课</font></p>
 									<p><font style="font-size:12px">*建立英文的思，学好英文捷径</font></p>
 									<p><font style="font-size:12px">*英语第一种句型be句型 I</font></p>
 									<p><font style="font-size:12px">*宾语从句</font></p>
@@ -362,13 +361,31 @@ body {
 								</td>
 							</tr>
 							<tr>
-								<td width="250px" height="150px">
-									<a href="/gzyy/">
-										<img src="/assets/images/video03.jpg">
+								<td width="250px" height="112px">
+									<a href="/zkyy/">
+										<img height="112px" style="height:112px" src="/assets/images/video04.jpg">
 									</a>
 								</td>
 								<td style="padding-left:10px">
-									<div style="height:160px;margin-top:10px;margin-left:10px;">
+									<div style="height:112px;margin-top:10px;margin-left:10px;">
+									<p><font class="redAndbold" style="font-size:18px;">中考试听课</font></p>
+									<p><font style="font-size:12px">*阅读理解应试技巧与“神表”</font></p>
+									<p><font style="font-size:12px">*补全短文解题9条秘诀</font></p>
+									<p><font style="font-size:12px">*名词性从句</font></p>
+									</div>
+								</td>
+								<td>
+									<a class="btn btn-primary btn-large" target="_blank" style="font-weight:bold;line-height:40px;" href="/zkyy/">免费试听<br/>点击进入</a>
+								</td>
+							</tr>
+							<tr>
+								<td width="250px" height="112px">
+									<a href="/gzyy/">
+										<img height="112px" style="height:112px" src="/assets/images/video03.jpg">
+									</a>
+								</td>
+								<td style="padding-left:10px">
+									<div style="height:112px;margin-top:10px;margin-left:10px;">
 									<p><font class="redAndbold" style="font-size:18px;">高中高考试听课</font></p>
 									<p><font style="font-size:12px">*2014年七选五高分策略与应试技巧</font></p>
 									<p><font style="font-size:12px">*高考原卷阅读满分策略</font></p>
@@ -516,7 +533,7 @@ body {
 					<p class="baomingContent_25">成为班级尖子生</p>
 					<p class="baomingContent_2">原价：780元</p>
 					<p class="baomingContent_3"><b>暑期优惠价 508元/年</b></p>
-					<p class="baomingContent_4"><b>报名即赠教材</b></p>
+					<p class="baomingContent_4"><b></b></p>
 					<div style="text-align:center;padding:10px 0px;"><a target="_blank" href="/Charge/Reg.asp"><img src="/assets/images/btn-baoming.png" /></a></div>
 				</div>
 			</div>
@@ -531,7 +548,7 @@ body {
 					<p class="baomingContent_25">最少提高30分</p>
 					<p class="baomingContent_2">原价：980元</p>
 					<p class="baomingContent_3"><b>暑期优惠价 608元/年</b></p>
-					<p class="baomingContent_4"><b>报名即赠教材</b></p>
+					<p class="baomingContent_4"><b></b></p>
 					<div style="text-align:center;padding:10px 0px;"><a target="_blank" href="/Charge/Reg.asp"><img src="/assets/images/btn-baoming.png" /></a></div>
 				</div>
 			</div>
@@ -546,7 +563,7 @@ body {
 					<p class="baomingContent_25">中考提高30-60分</p>
 					<p class="baomingContent_2">套餐原价：1500元</p>
 					<p class="baomingContent_3"><b>暑期优惠价 880元/年</b></p>
-					<p class="baomingContent_4"><b>报名即赠教材</b></p>					
+					<p class="baomingContent_4"><b></b></p>					
 					<div style="text-align:center;padding:10px 0px;">
 						<a target="_blank" href="/Charge/Reg.asp"><img src="/assets/images/btn-baoming.png" /></a>
 					</div>
@@ -564,7 +581,7 @@ body {
 					<p class="baomingContent_25">高考提高30-80分</p>
 					<p class="baomingContent_2">套餐原价：1800元</p>
 					<p class="baomingContent_3"><b>暑期优惠价 980元/年</b></p>
-					<p class="baomingContent_4"><b>报名即赠教材</b></p>
+					<p class="baomingContent_4"><b></b></p>
 					<div style="text-align:center;padding:10px 0px;"><a target="_blank" href="/Charge/Reg.asp"><img src="/assets/images/btn-baoming.png" /></a></div>
 				</div>
 			</div>

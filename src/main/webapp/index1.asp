@@ -328,7 +328,7 @@ body {
 							<tr>
 								<td width="250px" height="150px">
 									<a href="/xxyy/">
-										<img src="/assets/images/video.png">
+										<img height="131px" src="/assets/images/video.png">
 									</a>
 								</td>
 								<td style="padding-left:10px">

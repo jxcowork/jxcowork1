@@ -1,0 +1,33 @@
+[10:38:31.235] {main} java.lang.UnsatisfiedLinkError: no resin in java.library.path
+[10:38:31.235] {main} 	at java.lang.ClassLoader.loadLibrary(ClassLoader.java:1738)
+[10:38:31.235] {main} 	at java.lang.Runtime.loadLibrary0(Runtime.java:823)
+[10:38:31.235] {main} 	at java.lang.System.loadLibrary(System.java:1028)
+[10:38:31.235] {main} 	at com.caucho.server.util.CauchoSystem.<clinit>(CauchoSystem.java:489)
+[10:38:31.235] {main} 	at com.caucho.log.TimestampFilter.write(TimestampFilter.java:202)
+[10:38:31.235] {main} 	at com.caucho.vfs.WriteStream.flush(WriteStream.java:357)
+[10:38:31.235] {main} 	at com.caucho.log.StreamHandler.publish(StreamHandler.java:122)
+[10:38:31.235] {main} 	at com.caucho.log.SubHandler.publish(SubHandler.java:60)
+[10:38:31.235] {main} 	at java.util.logging.Logger.log(Logger.java:509)
+[10:38:31.235] {main} 	at java.util.logging.Logger.doLog(Logger.java:531)
+[10:38:31.235] {main} 	at java.util.logging.Logger.log(Logger.java:554)
+[10:38:31.235] {main} 	at java.util.logging.Logger.fine(Logger.java:1105)
+[10:38:31.235] {main} 	at com.caucho.server.hmux.HmuxStream.readData(HmuxStream.java:615)
+[10:38:31.235] {main} 	at com.caucho.server.hmux.HmuxStream.getConnInputImpl(HmuxStream.java:548)
+[10:38:31.235] {main} 	at com.caucho.server.hmux.HmuxStream.getConnInput(HmuxStream.java:458)
+[10:38:31.235] {main} 	at com.caucho.server.hmux.HmuxStream.getAttribute(HmuxStream.java:293)
+[10:38:31.235] {main} 	at com.caucho.server.hmux.HmuxStreamWrapper.getAttribute(HmuxStreamWrapper.java:115)
+[10:38:31.235] {main} 	at com.caucho.vfs.ReadStream.getAttribute(ReadStream.java:1119)
+[10:38:31.235] {main} 	at com.caucho.server.admin.HessianHmuxProxy.invoke(HessianHmuxProxy.java:112)
+[10:38:31.235] {main} 	at com.sun.proxy.$Proxy5.stop(Unknown Source)
+[10:38:31.235] {main} 	at com.caucho.boot.WatchdogClient.stopWatchdog(WatchdogClient.java:218)
+[10:38:31.235] {main} 	at com.caucho.boot.ResinBoot.start(ResinBoot.java:194)
+[10:38:31.235] {main} 	at com.caucho.boot.ResinBoot.main(ResinBoot.java:295)
+[10:38:31.236] {main} java.lang.UnsatHMUX: M 8
+[10:38:31.236] {main} HMUX: S 1
+[10:38:31.236] {main} HMUX: H 14
+[10:38:31.236] {main} HMUX: S 1
+[10:38:31.236] {main} HMUX: H 12
+[10:38:31.236] {main} HMUX: S 21
+[10:38:31.236] {main} HMUX: G 0
+[10:38:31.236] {main} HMUX: D 5
+[10:38:31.238] {main} HMUX: Q
