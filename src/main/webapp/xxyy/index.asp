@@ -311,8 +311,8 @@ body {
 			</tr>
 			<tr align="center">
 				<td width="25%>
-					<a href=""><img src="/assets/images/xxyy/youmopic.png"></a><br/>
-					<font class="charactorIntro">孙老师现场精彩讲座</font>
+					<a href="/free/ftvshow.asp?SK100501" target="_blank"><img src="/assets/images/xxyy/youmopic.png"></a><br/>
+					<font class="charactorIntro"><a href="/free/ftvshow.asp?SK100501" target="_blank">孙老师现场精彩讲座</a></font>
 				</td>
 				<td width="25%>
 					<a href=""><img src="/assets/images/xxyy/youmopic.png"></a><br/>
@@ -324,7 +324,7 @@ body {
 				</td>
 				<td width="25%>
 					<a href=""><img src="/assets/images/xxyy/youmopic.png"></a><br/>
-					<font class="charactorIntro">孙老师英国悲惨遭遇</font>
+					<font class="charactorIntro"><a href="/free/ftvshow.asp?SK100501" target="_blank">孙老师英国悲惨遭遇</a></font>
 				</td>
 			</tr>
 		</table>
