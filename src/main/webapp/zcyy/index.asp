@@ -25,7 +25,6 @@ body {
 	/* 60px to make the container go all the way to the bottom of the topbar */
 }
 </style>
-<link href="/assets/bootstrap-2.3.2/css/bootstrap-responsive.css" charset="utf-8" type="text/css" rel="stylesheet">
 <link href="/assets/css/sun.css" charset="utf-8" type="text/css" rel="stylesheet">
 <link href="/assets/flowplayer-5.4.3/skin/minimalist.css" charset="utf-8" type="text/css" rel="stylesheet">
 <!-- HTML5 shim, for IE6-8 support of HTML5 elements -->

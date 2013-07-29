@@ -107,7 +107,7 @@ body {
 				<td width="50%" height="280px" colspan="2">
 					<table width="100%">
 					<tr>
-						<td><img src="/assets/images/xxyy/sanjutong.png"></td>
+						<td><img src="/assets/images/xxyy/sanjutong.gif"></td>
 					</tr>
 					<tr>
 						<td align="center"><a href="/free/xiaoxue/index.asp?ID=1" target="_blank"><img src="/assets/images/xxyy/xxyy_00.png" style="margin-bottom:10px;margin-top:10px;"></td>
