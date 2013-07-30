@@ -84,7 +84,7 @@ body {
 		<table>
 		<tr>
 		<td style="width:480px;height:290px;">
-				<div id="videoplayer"><a href="http://www.teachersun.com/free/ftvshow.asp?bk1301" target="_blank"><img src="/assets/images/video1.jpg"></a></div>
+				<div id="videoplayer"><a href="/free/ftvshow.asp?bk1301" target="_blank"><img src="/assets/images/video1.jpg"></a></div>
 		</td>
 		<td>
 		<div class="span6" style="width:480px;height:300px; margin-right: 30px;background-image: url(/assets/images/maintips.png);background-repeat:no-repeat;">
@@ -131,12 +131,12 @@ body {
 					<font class="charactorIntro"><a href="/free/ftvshow.asp?SK100501" target="_blank">孙老师现场精彩讲座</a></font>
 				</td>
 				<td width="25%">
-					<a href="" target="_blank"><img src="/assets/images/xxyy/xxyy_02.png"></a><br/>
-					<font class="charactorIntro">孙老师谈智商</font>
+					<a href="/free/xiaoxue/index.asp?ID=tzs" target="_blank"><img src="/assets/images/xxyy/xxyy_02.png"></a><br/>
+					<font class="charactorIntro"><a href="/free/xiaoxue/index.asp?ID=tzs" target="_blank">孙老师谈智商</a></font>
 				</td>
 				<td width="25%">
-					<a href="" target="_blank"><img src="/assets/images/xxyy/xxyy_03.png"></a><br/>
-					<font class="charactorIntro">孙老师谈如何走向成功</font>
+					<a href="/free/xiaoxue/index.asp?ID=rhzxcg" target="_blank"><img src="/assets/images/xxyy/xxyy_03.png"></a><br/>
+					<font class="charactorIntro"><a href="/free/xiaoxue/index.asp?ID=rhzxcg" target="_blank">孙老师谈如何走向成功</a></font>
 				</td>
 				<td width="25%">
 					<a href="/flash/" target="_blank"><img src="/assets/images/xxyy/xxyy_04.png"></a><br/>
