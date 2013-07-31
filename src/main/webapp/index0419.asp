@@ -77,47 +77,59 @@
 <body>
 <div id="webbox">
 <div class="header">
-<div class="top"><a href="http://teachersun.com/sunlaoshi/" target="_blank" title="孙老师课堂--孙老师介绍">孙老师介绍 </a>  |  <a href="http://www.teachersun.com/free/" target="_blank" title="孙老师课堂--免费课堂">免费课堂</a> | <a href="http://bbs.teachersun.com/" target="_blank" title="孙老师课堂--英语贴吧">英语贴吧</a> | <a href="http://www.teachersun.com/Agent/" target="_blank" title="孙老师课堂--诚聘英才">诚聘英才</a> | <a href="http://www.teachersun.com/About/" target="_blank" title="孙老师课堂--联系我们">联系我们</a> </div>
+<div class="top"><a href="http://www.teachersun.com/zcyy" target="_blank" title="孙老师课堂--职称英语">职称英语</a> | <a href="http://www.teachersun.com/xxyy" target="_blank" title="孙老师课堂--小学英语">小学英语</a> | <a href="http://www.teachersun.com/czyy" target="_blank" title="孙老师课堂--初中英语">初中英语</a> | <a href="http://www.teachersun.com/zkyy" target="_blank" title="孙老师课堂--中考英语">中考英语</a> | <a href="http://www.teachersun.com/gzyy" target="_blank" title="孙老师课堂--高中高考">高中高考</a> | <a href="http://www.teachersun.com/sjyy" target="_blank" title="孙老师课堂--三级英语">三级英语</a> | <a href="http://www.teachersun.com/cryy" target="_blank" title="孙老师课堂--成人英语">成人英语</a></div>
 <div class="logo"><a href="/"><img src="images/logo.gif" border="0"/></a></div>
 <div class="topword"></div>
-<div class="toptxt"><a href="http://www.teachersun.com">www.teachersun.com</a>&nbsp;&nbsp;TEL:13621363312&nbsp;&nbsp;E-mail:slskt@263.net&nbsp;工作时间 9:00-22:30</div>
+<div class="toptxt"><a href="http://www.teachersun.com">www.teachersun.com</a>&nbsp;&nbsp;TEL:13621363312&nbsp;&nbsp;E-mail:slskt@263.net</div>
 </div>
 <div class="nav">
 <ul>
 <li class="on">
-<a href="http://www.teachersun.com" title="孙老师课堂">首页<br /></a></li>
+<a href="http://www.teachersun.com" title="孙老师课堂">首页<br />
+<span class="STYLE1">Home</span></a></li>
 <li>
-<a href="http://www.teachersun.com/zcyy/" title="孙老师课堂--职称英语">职称英语<br /></a></li>
+<a href="http://teachersun.com/sunlaoshi" title="孙老师课堂--孙老师介绍">孙老师介绍<br />
+<span class="STYLE1">Teacher Sun</span></a></li>
 <li>
-<a href="http://www.teachersun.com/xxyy/" title="孙老师课堂--小学英语">小学英语<br /></a></li>
+<a href="http://www.teachersun.com/free" title="孙老师课堂--免费课堂">免费课堂<br />
+<span class="STYLE1">Free Class</span></a></li>
 <li>
-<a href="http://www.teachersun.com/czyy/" title="孙老师课堂--初中英语">初中英语<br /></a></li>
+<a href="http://bbs.teachersun.com/" title="孙老师课堂--英语贴吧">英语贴吧<br />
+<span class="STYLE1">Post bar</span></a></li>
+<!--li>
+<a href="http://www.teachersun.com/order" target="_blank" title="孙老师课堂--教材推荐">教材推荐<br />
+<span class="STYLE1">Order Online</span></a></li-->
 <li>
-<a href="http://www.teachersun.com/zkyy/" target="_blank" title="孙老师课堂--中考英语">中考英语<br /></a></li>
+<a href="http://www.teachersun.com/Agent" title="孙老师课堂--诚聘英才">诚聘英才<br />
+<span class="STYLE1">Recuilment</span></a></li>
 <li>
-<a href="http://www.teachersun.com/gzyy/" title="孙老师课堂--高中高考">高中高考<br /></a></li>
-<li>
-<a href="http://www.teachersun.com/sjyy/" title="孙老师课堂--三级英语">三级英语<br /></a></li>
-<li>
-<a href="http://www.teachersun.com/cryy/" title="孙老师课堂--成人英语">成人英语<br /></a></li>
-<li> 
-<a href="http://class.teachersun.com/lesson/yjjzs_bm.html" title="孙老师课堂--一级建造师">一级建造师<br /></a></li>
-    <li> <a href="http://class.teachersun.com/lesson/ejjzs_bm.html" title="孙老师课堂--二级建造师">二级建造师<br /></a></li>
+<a href="http://www.teachersun.com/About" title="孙老师课堂--联系我们">联系我们<br />
+<span class="STYLE1">Contect us</span></a></li>
+
+<li> <a href="http://class.teachersun.com/lesson/yjjzs_bm.html" title="孙老师课堂--孙老师介绍">一级建造师<br />
+      <!--span class="STYLE1">Teacher Sun</span--></a></li>
+    <li> <a href="http://class.teachersun.com/lesson/ejjzs_bm.html" title="孙老师课堂--免费课堂">二级建造师<br />
+      <!--span class="STYLE1">Free Class</span--></a></li>
 </ul>
 </div>
 <div class="nav">
   <ul>
-   <li> <a href="http://class.teachersun.com/lesson/zcjsj_bm.html" title="孙老师课堂--职称计算机">职称计算机<br /></a></li>
-     <li> <a href="http://class.teachersun.com/lesson/zqcy_bm.html" title="孙老师课堂--证券从业资格">证券从业资格<br /></a></li>
-    <li> <a href="http://class.teachersun.com/lesson/zckjs_bm.html" title="孙老师课堂--注册会计师">注册会计师<br /></a></li>
+   <li> <a href="http://class.teachersun.com/lesson/zcjsj_bm.html" title="孙老师课堂--孙老师介绍">职称计算机<br /></a></li>
+     <li> <a href="http://class.teachersun.com/lesson/zqcy_bm.html" title="孙老师课堂--孙老师介绍">证券从业资格<br /></a></li>
+    <li> <a href="http://class.teachersun.com/lesson/zckjs_bm.html" title="孙老师课堂--孙老师介绍">注册会计师<br />
+      <!--span class="STYLE1">Teacher Sun</span--></a></li>
     
-    <li> <a href="http://class.teachersun.com/lesson/zaojia_bm.html" title="孙老师课堂--造价工程师">造价工程师<br /></a></li>
+    <li> <a href="http://class.teachersun.com/lesson/zaojia_bm.html" title="孙老师课堂--英语贴吧">造价工程师<br />
+      <!--span class="STYLE1">Post bar</span--></a></li>
     <li>
-<a href="http://class.teachersun.com/lesson/wygls_bm.html" target="_blank" title="孙老师课堂--物业管理师">物业管理师<br />
+<a href="http://class.teachersun.com/lesson/wygls_bm.html" target="_blank" title="孙老师课堂--教材推荐">物业管理师<br />
 <!--span class="STYLE1">Order Online</span--></a></li>
-    <li> <a href="http://class.teachersun.com/lesson/jjs_bm.html" title="孙老师课堂--经济师">经济师<br /></a></li>
-    <li> <a href="http://class.teachersun.com/lesson/bgy_bm.html" title="孙老师课堂--报关员">报关员<br /></a></li>
-          <li> <a href="http://class.teachersun.com/lesson/zyys_bm.html" title="孙老师课堂--执业药师">执业药师<br /></a></li>
+    <li> <a href="http://class.teachersun.com/lesson/jjs_bm.html" title="孙老师课堂--诚聘英才">经济师<br />
+      <!--span class="STYLE1">Recuilment</span--></a></li>
+    <li> <a href="http://class.teachersun.com/lesson/bgy_bm.html" title="孙老师课堂--联系我们">报关员<br />
+      <!--span class="STYLE1">Contect us</span--></a></li>
+          <li> <a href="http://class.teachersun.com/lesson/zyys_bm.html" title="孙老师课堂--联系我们">执业药师<br />
+      <!--span class="STYLE1">Contect us</span--></a></li>
   </ul>
 </div>
 <div class="banner">
