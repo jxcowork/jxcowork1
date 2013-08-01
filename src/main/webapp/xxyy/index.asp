@@ -151,8 +151,8 @@ body {
 	<div class="container" style="margin-top:10px;background-color:#FFFFFF;">
 		<table width="960px" style="font-size:14px;margin:auto;">
 			<tr>
-			<td width="590px" align="left" valign="top">
-			<table width="560px" class="xxyyShare">
+			<td width="600px" align="left" valign="top">
+			<table width="600px" class="xxyyShare">
 			<tr>
 			<th>点击</th>
 			<th>回帖</th>
@@ -201,9 +201,15 @@ body {
 			<td>是孙老师让我们站了起来</td>
 			<td>xxx</td>
 			</tr>
+			<tr class="xxyyShareDark">
+			<td>11266</td>
+			<td>112</td>
+			<td>是孙老师让我们站了起来</td>
+			<td>xxx</td>
+			</tr>
 			</table>
 			</td>
-			<td width="345px" valign="top" style="line-height:140%">
+			<td width="345px" valign="top" style="line-height:160%">
 			<img src="/assets/images/xxyy/c.png"><br/>
 孙老师课堂学员已经超过<font class="xxyyStrong">200万人</font><br/>
 仅贴吧留言就<font class="xxyyStrong">高达数万条！</font><br/>
@@ -231,35 +237,35 @@ body {
 	</tr>
 	<tr><td colspan="2" width="50%"><table><tr>
 	<td align="left" style="width:40%"><img src="/assets/images/xxyy/001.png"></td>
-	<td height="130px" style="width:60%"><font class="xxyyMediumStrong">高考英语120分，<br/>
+	<td height="130px" style="width:60%;line-height:160%"><font class="xxyyMediumStrong">高考英语120分，<br/>
 	是孙老师英语课堂让我重新站了起来！</font><br/>
 	<font class="xxyyLight">(是孙老师英语课堂让我重新站了起来！)</font>
 	</td>
 	</tr></table></td>
 	<td colspan="2" width="50%"><table><tr>
 	<td width="40%" align="left" style="width:170px"><img src="/assets/images/xxyy/002.png"></td>
-	<td width="60%" height="130px">
+	<td width="60%" height="130px" style="width:60%;line-height:160%">
 	<font class="xxyyMediumStrong">孩子中考英语106分，<br/>找回学习英语的热情！</font><br/><font class="xxyyLight">(感谢上帝的眷顾，合适的时间，碰见了合适的老师)</font>
 	</td></tr></table></td>
 	</tr>
 	<tr>
 	<td colspan="2" height="60px" style="padding-right:35px;" width="50%">
 		<font class="xxyySmall">孙老师，不知您还记得我不？我就是那位广东考生，“带到山花烂漫时，她在丛中笑！”，现在我终于可以让孙老师真正的笑了，今年高考我超出重点校50多分，虽然英语没发挥哈，才120分但我也很高兴了，</font>
-		<div class="seeDetails"><a href="" target="_blank">查看详细&gt;&gt;</a></div>
+		<span class="seeDetails"><a href="" target="_blank">查看详细&gt;&gt;</a></span>
 	</td>
 	<td colspan="2" height="60px" style="padding-right:35px;" width="50%">
-		<font class="xxyySmall">我孩子2009年中考在即，上孙老师的课堂孩子，第一次模考73分，到中考时考106分，下分的那一刻，孩子发誓去国外读大学，中心三年他的英语没及格过，阴雨是他的心结，数理化向来年级前几名，但英语是倒数前三名，</font>
-		<div class="seeDetails"><a href="" target="_blank">查看详细&gt;&gt;</a></div>
+		<font class="xxyySmall">我孩子2009年中考在即，上孙老师的课堂孩子，第一次模考73分，到中考时考106分，下分的那一刻，孩子发誓去国外读大学，中心三年他的英语没及格过，阴雨是他的心结，数理化向来年级前几名，但英语是倒数</font>
+		<span class="seeDetails"><a href="" target="_blank">查看详细&gt;&gt;</a></span>
 	</td>
 	</tr>
 	<tr><td colspan="2" width="50%"><table><tr>
 	<td width="40%" align="left" style="width:170px"><img src="/assets/images/xxyy/003.png"></td>
-	<td width="60%" height="130px"><font class="xxyyMediumStrong">两个月，<br/>从44分到高考121分</font><br/>
+	<td width="60%" height="130px" style="width:60%;line-height:160%"><font class="xxyyMediumStrong">两个月，<br/>从44分到高考121分</font><br/>
 	<font class="xxyyLight">(孙老师，激发个人潜能！！)</font>
 	</td></tr></table></td>
 	<td colspan="2" width="50%"><table><tr>
 	<td width="40%" align="left" style="width:170px"><img src="/assets/images/xxyy/004.png"></td>
-	<td width="60%" height="130px">
+	<td width="60%" height="130px" style="width:60%;line-height:160%">
 	<font class="xxyyStrong">感谢孙老师！<br/>
 我女儿考上了美国的大学</font><br/>
 	</td>
@@ -267,22 +273,22 @@ body {
 	<tr>
 	<td colspan="2" height="60px" style="padding-right:35px;" width="50%">
 		<font class="xxyySmall">我是河北的考生。从小就渴望成功，高中一直努力学习，但一直效果不是很好，转眼到了高三，还是每天熬夜学习，效率低下。尤其英语，在四五十分晃荡。时间一长，有点没耐心了，想放弃，又不甘心。</font>
-		<div class="seeDetails"><a href="" target="_blank">查看详细&gt;&gt;</a></div>
+		<span class="seeDetails"><a href="" target="_blank">查看详细&gt;&gt;</a></span>
 	</td>
 	<td colspan="2" height="60px" style="padding-right:35px;" width="50%">
 		<font class="xxyySmall">孙老师：您好！6年前，我女儿小升初后的那个暑假，参加了你亲自授课的辅导班。从那时起，孩子的英语程度有了一个质的飞跃。三年后中考英语得了116分，现在又考取了美国的T30的大学。谢谢您！。。。。。。。</font>
-		<div class="seeDetails"><a href="" target="_blank">查看详细&gt;&gt;</a></div>
+		<span class="seeDetails"><a href="" target="_blank">查看详细&gt;&gt;</a></span>
 	</td>
 	</tr>
 	<tr><td colspan="2" width="50%"><table><tr>
 	<td width="40%" align="left" style="width:170px"><img src="/assets/images/xxyy/005.png"></td>
-	<td width="60%" height="130px"><font class="xxyyStrong">孙老师课堂，<br/>
+	<td width="60%" height="130px" style="width:60%;line-height:160%"><font class="xxyyStrong">孙老师课堂，<br/>
 让一家三口都实现了梦想</font><br/>
 	<font class="xxyyLight">(神啊，你又一次眷顾我！)</font>
 	</td></tr></table></td>
 	<td colspan="2" width="50%"><table><tr>
 	<td width="40%" align="left" style="width:170px"><img src="/assets/images/xxyy/006.png"></td>
-	<td width="60%" height="130px">
+	<td width="60%" height="130px" style="width:60%;line-height:160%">
 	<font class="xxyyStrong">今年高考131分，<br/>
 山东应届高考生致谢孙老师</font><br/><font class="xxyyLight">(神啊，你又有种再一次眷顾我！)</font>
 	</td></tr></table></td>
@@ -290,11 +296,11 @@ body {
 	<tr>
 	<td colspan="2" height="60px" style="padding-right:35px;" width="50%">
 		<font class="xxyySmall">天津的分数下的晚，今天才刚刚出来，我第一时间查分。66分，不高，但过了！我爱人72分，比我还高。 此刻，我的心情真是激动无比，手还在抖着，我不知道用什么样的言语...</font>
-		<div class="seeDetails"><a href="" target="_blank">查看详细&gt;&gt;</a></div>
+		<span class="seeDetails"><a href="" target="_blank">查看详细&gt;&gt;</a></span>
 	</td>
 	<td colspan="2" height="60px" style="padding-right:35px;" width="50%">
 		<font class="xxyySmall">今年五一放假在网上偶然看到了您的孙老师课堂免费课程，立即有种相见恨晚的感觉。虽然距高考还有一个月，虽然平时英语成绩在120分左右不为高考拉后腿，但还是欣喜地购买了。。。</font>
-		<div class="seeDetails"><a href="" target="_blank">查看详细&gt;&gt;</a></div>
+		<span class="seeDetails"><a href="" target="_blank">查看详细&gt;&gt;</a></span>
 	</td>
 	</tr>
 	</table>
