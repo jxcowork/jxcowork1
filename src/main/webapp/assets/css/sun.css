@@ -235,3 +235,49 @@ margin:0; padding:0; bottom:3px; right:5px; height:20px}
 .payImage {
 	border:2px solid #FFE3B7;	
 }
+.xxyyShare {
+	border:solid 1px RGB(131,178,220);
+}
+.xxyyShare tr th{
+	background-color:#006ED4;
+	color:#FFFFFF;
+	line-height: 24px;
+	font-weight: normal;
+	font-size:14px;
+}
+.xxyyShare tr td{
+	text-align:center;
+	line-height: 24px;
+	font-size:14px;
+}
+.xxyyShareDark td{
+	background-color:#CDE2F5;
+}
+.xxyyStrong {
+	color:#0068D0;
+	font-weight:bold;
+	font-size:18px;	
+}
+.xxyyMediumStrong {
+	color:#0068D0;
+	font-weight:bold;
+	font-size:16px;	
+}
+.xxyyLight {
+	color:#0068D0;
+	font-size:12px;	
+}
+.xxyySmall {
+	font-size:12px;	
+}
+.seeDetails {
+    float: right;
+    font-size: 12px;
+    margin-right: 50px;
+    text-align: left;
+}
+.seeDetails a {
+	font-size:12px;
+	color:#CE6500;
+	float: right;
+}
