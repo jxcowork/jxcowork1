@@ -149,10 +149,10 @@ body {
 		<a href="http://bbs.teachersun.com/"><img src="/assets/images/mainad4.png" /></a>
 	</div>
 	<div class="container" style="margin-top:10px;background-color:#FFFFFF;">
-		<table width="960px" style="font-size:14px;margin:auto;">
+		<table width="960px" style="font-size:14px;margin:auto 20px;">
 			<tr>
 			<td width="600px" align="left" valign="top">
-			<table width="600px" class="xxyyShare">
+			<table width="580px" class="xxyyShare">
 			<tr>
 			<th>点击</th>
 			<th>回帖</th>
@@ -160,51 +160,51 @@ body {
 			<th>作者</th>
 			</tr>
 			<tr>
-			<td>11266</td>
-			<td>112</td>
-			<td>是孙老师让我们站了起来</td>
-			<td>xxx</td>
+			<td>1266</td>
+			<td>7</td>
+			<td align="left" style="text-align:left;"><a target="_blank" href="http://bbs.teachersun.com/bbs_tj.asp?ztid=23625&ykft=1&jbm">一个望子成龙母亲的感谢!</a></td>
+			<td>221.216.147.*</td>
 			</tr>
 			<tr class="xxyyShareDark">
-			<td>11266</td>
-			<td>112</td>
-			<td>是孙老师让我们站了起来</td>
-			<td>xxx</td>
+			<td>1278</td>
+			<td>24</td>
+			<td align="left" style="text-align:left;"><a target="_blank" href="http://bbs.teachersun.com/bbs_tj.asp?ztid=20174&ykft=1&jbm">孙老师您真是个好人</a></td>
+			<td>219.159.34.*</td>
 			</tr>
 			<tr>
-			<td>11266</td>
-			<td>112</td>
-			<td>是孙老师让我们站了起来</td>
-			<td>xxx</td>
+			<td>718</td>
+			<td>12</td>
+			<td align="left" style="text-align:left;"><a target="_blank" href="http://bbs.teachersun.com/bbs_tj.asp?ztid=40401&ykft=1&jbm">孙老师，您永远的学生！</a></td>
+			<td>您永远的学生</td>
 			</tr>
 			<tr class="xxyyShareDark">
-			<td>11266</td>
-			<td>112</td>
-			<td>是孙老师让我们站了起来</td>
-			<td>xxx</td>
+			<td>846</td>
+			<td>1</td>
+			<td align="left" style="text-align:left;"><a target="_blank" href="http://bbs.teachersun.com/bbs_tj.asp?ztid=91126&ykft=1&jbm">中国真有高人！---英语的高人（俗话叫大拿）</a></td>
+			<td>218.240.46.*</td>
 			</tr>
 			<tr>
-			<td>11266</td>
-			<td>112</td>
-			<td>是孙老师让我们站了起来</td>
-			<td>xxx</td>
+			<td>369</td>
+			<td>12</td>
+			<td align="left" style="text-align:left;"><a target="_blank" href="http://bbs.teachersun.com/bbs_tj.asp?ztid=24886&ykft=1&jbm">听了您的课想把我的那个英语老师给杀了！</a></td>
+			<td>无语 </td>
 			</tr>
 			<tr class="xxyyShareDark">
-			<td>11266</td>
-			<td>112</td>
-			<td>是孙老师让我们站了起来</td>
-			<td>xxx</td>
+			<td>451</td>
+			<td>3</td>
+			<td align="left" style="text-align:left;"><a target="_blank" href="http://bbs.teachersun.com/bbs_tj.asp?ztid=56729&ykft=1&jbm">听了1个月的棵 英语终于开始入门了</a></td>
+			<td>222.245.95.*</td>
 			</tr>
 			<tr>
-			<td>11266</td>
-			<td>112</td>
-			<td>是孙老师让我们站了起来</td>
-			<td>xxx</td>
+			<td>945</td>
+			<td>2</td>
+			<td align="left" style="text-align:left;"><a target="_blank" href="http://bbs.teachersun.com/bbs_tj.asp?ztid=55020&ykft=1&jbm">感谢孙老师的学习方法</a></td>
+			<td>118.75.245.*</td>
 			</tr>
 			<tr class="xxyyShareDark">
 			<td>11266</td>
-			<td>112</td>
-			<td>是孙老师让我们站了起来</td>
+			<td>2</td>
+			<td align="left" style="text-align:left;"><a target="_blank" href="">是孙老师让我们站了起来</a></td>
 			<td>xxx</td>
 			</tr>
 			</table>
